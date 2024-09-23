@@ -1,0 +1,30 @@
+
+In none of the documents should we have any specific company's name. Rather some sort of marking be done so that whosoever working on it can easily notice it and replace it with the respective company.
+
+
+
+
+1. BOM comments:-
+
+	For 3 server architecture - 
+
+		sufficient load is given as "10 projects" isn't it less than what it could 		sustain??
+		same goes for all of the rest quantified items - Project Managers, Team 			Members, Management Users? 
+
+		My assumption is that, 3 server architecture could sustain more than the 		mentioned nos.
+
+
+		Overall we need to reanalyze the BOM as far as quantification is concerned.
+
+
+2. EIF Document:-
+
+	Lacks the standard layout of Astrowix what we are following in other documents.
+
+	I think it could be organized/reconstructed in better way to make it more user 		friendly.
+
+
+
+3. Hardware Sizing:-
+
+	Hardware sizing and performance analysis are not done for 3/5/7 server architecture.

@@ -1,0 +1,1561 @@
+<?xml version="1.0"?>
+<ScorecardModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DocumentVersion="0.4" ScorecardServerUrl="http://wgb-pc:40000/WebService/PmService.asmx" LastModified="2009-01-07T14:58:39.394-08:00">
+  <DirtyList />
+  <ScorecardsInWorkspace>
+    <Scorecard Guid="82e929a2-f964-40cb-91b1-a14256b95ad2" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:49.188-08:00" Version="2" TemplateType="General">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="CPI " />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <ReportViewInstances />
+      <ConfiguredViews>
+        <ConfiguredView Guid="810b2276-af54-4803-bbd2-0eb85a44da9e" DataSourceId="7eaecac9-9336-4eb9-98b3-3d8a9cbc4939" AllowAnnotations="false" AllowShowDetails="true" ShowInfoToolTips="false" EnableTextwrap="false" AlwaysShowAnnotationCellFlags="false" ExpandToFitWidth="false" HideScorecard="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Default View" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <ToolbarOptions ShowToolbar="true" ShowPageFilters="true" ShowRefresh="true" ShowStatusFilter="true" ShowToolTips="true" ShowCollapse="true" ShowMode="true" ShowPrint="true" ShowExpand="true" ShowCellSelection="false" AnnotationOnByDefault="true" ShowPageFiltersByDefault="false" ShowStatusFilterByDefault="false" ShowToolbarItemsLabel="false" ShowDefaultRollup="true" ShowWorstChildRollup="true" ShowIndicatorCount="true" />
+          <GridViewDefinition EmptyCell="" InvalidCell="ERROR!" ShowGridLines="true" ShowHiddenHeaders="false" ShowMetricHeaders="true" ShowPlusMinus="true">
+            <DefaultCellFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Right">
+              <FontInfo FamilyName="Tahoma" SizeInPoints="8.25" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+              <ForeColor A="255" R="0" G="0" B="0" />
+              <BackColor A="255" R="255" G="255" B="255" />
+            </DefaultCellFormatInfo>
+            <DefaultRowHeaderFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Left">
+              <BackColor A="255" R="232" G="240" B="255" />
+            </DefaultRowHeaderFormatInfo>
+            <DefaultColumnHeaderFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Center">
+              <BackColor A="255" R="220" G="228" B="252" />
+            </DefaultColumnHeaderFormatInfo>
+            <RootRowHeader Id="0" Guid="82bd62f5-e4b0-4b1a-8079-a8a3fbc63142" DefinitionGuid="82bd62f5-e4b0-4b1a-8079-a8a3fbc63142" DisplayText="" HeaderType="None" Depth="0" DescendantSpan="1" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+              <Children>
+                <GridHeaderItem Id="0" Guid="db84bcaf-caf2-4114-baec-01d1de258a63" DefinitionGuid="db84bcaf-caf2-4114-baec-01d1de258a63" DisplayText="CPI" DimensionName="Scorecard__" DimensionValue="afd5cbe2-d22d-4ec7-84b7-a48cd14253f8" HeaderType="Kpi" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="afd5cbe2-d22d-4ec7-84b7-a48cd14253f8" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                </GridHeaderItem>
+              </Children>
+              <BpmProperties />
+              <ReportViewInstances />
+            </RootRowHeader>
+            <RootColumnHeader Id="0" Guid="3ec0ee6b-68f4-48ed-9a1b-d9448a1f2190" DefinitionGuid="3ec0ee6b-68f4-48ed-9a1b-d9448a1f2190" DisplayText="" HeaderType="None" Depth="0" DescendantSpan="1" LeafSpan="2" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+              <Children>
+                <GridHeaderItem Id="0" Guid="ac7f4c8c-ab6a-4f3d-9f01-ece3b9baf5fe" DefinitionGuid="ac7f4c8c-ab6a-4f3d-9f01-ece3b9baf5fe" DisplayText="Actual" DimensionName="Scorecard_Measures__" DimensionValue="Actual" HeaderType="KpiActual" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Actual" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+                <GridHeaderItem Id="0" Guid="8a7e1742-67a8-4b3d-8f9b-3774794cca45" DefinitionGuid="8a7e1742-67a8-4b3d-8f9b-3774794cca45" DisplayText="Target" DimensionName="Scorecard_Measures__" DimensionValue="Target" HeaderType="KpiTarget" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Target" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+              </Children>
+              <BpmProperties />
+              <ReportViewInstances />
+            </RootColumnHeader>
+            <DefaultRollupIndicatorId>00000000-0000-0000-0000-000000000000</DefaultRollupIndicatorId>
+            <PageFilters />
+          </GridViewDefinition>
+        </ConfiguredView>
+      </ConfiguredViews>
+      <EndPoints>
+        <EndPoint UniqueName="Filters" DisplayName="Filters" AcceptsMultipleFilterLinks="true" />
+        <EndPoint UniqueName="Row" DisplayName="Row" AcceptsMultipleFilterLinks="false" />
+        <EndPoint UniqueName="Column" DisplayName="Column" AcceptsMultipleFilterLinks="false" />
+      </EndPoints>
+      <BeginPoints>
+        <ParameterDefinition>
+          <ParameterUniqueName>60203146-7fc6-4a70-908f-34c571c37151</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="KpiId" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Name" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Description" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Person_x0020_Responsible" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>KpiRowHeader</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardKpiProvider</ParameterProviderId>
+          <DisplayName>KpiRowHeader</DisplayName>
+          <EmitterType>BothAConditionalVisibilityAndParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>c95cac6f-3f65-4aff-b73f-8e3e37f6d4ab</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>Cell</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardCellProvider</ParameterProviderId>
+          <DisplayName>Cell</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>36dadc0c-0050-43d7-a82a-fdb16d376a3d</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="MemberUniqueName" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>RowMember</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardRowMemberProvider</ParameterProviderId>
+          <DisplayName>RowMember</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>05d579e9-eb3e-4fee-97b1-522f0a8d3cd0</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="MemberUniqueName" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>ColumnMember</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardColumnMemberProvider</ParameterProviderId>
+          <DisplayName>ColumnMember</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+      </BeginPoints>
+    </Scorecard>
+    <Scorecard Guid="237aecc4-0553-42ee-af78-29dd8768a46e" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:29:38.632-08:00" Version="18" TemplateType="General">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="High Risk Scorecard" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <ReportViewInstances />
+      <ConfiguredViews>
+        <ConfiguredView Guid="81b945cd-4f9f-43b0-9f98-1783272617e2" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" AllowAnnotations="false" AllowShowDetails="true" ShowInfoToolTips="false" EnableTextwrap="false" AlwaysShowAnnotationCellFlags="false" ExpandToFitWidth="false" HideScorecard="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Default View" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <ToolbarOptions ShowToolbar="true" ShowPageFilters="true" ShowRefresh="true" ShowStatusFilter="true" ShowToolTips="true" ShowCollapse="true" ShowMode="true" ShowPrint="true" ShowExpand="true" ShowCellSelection="false" AnnotationOnByDefault="true" ShowPageFiltersByDefault="false" ShowStatusFilterByDefault="false" ShowToolbarItemsLabel="false" ShowDefaultRollup="true" ShowWorstChildRollup="true" ShowIndicatorCount="true" />
+          <GridViewDefinition EmptyCell="" InvalidCell="ERROR!" ShowGridLines="true" ShowHiddenHeaders="false" ShowMetricHeaders="true" ShowPlusMinus="true">
+            <DefaultCellFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Right">
+              <FontInfo FamilyName="Tahoma" SizeInPoints="8.25" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+              <ForeColor A="255" R="0" G="0" B="0" />
+              <BackColor A="255" R="255" G="255" B="255" />
+            </DefaultCellFormatInfo>
+            <DefaultRowHeaderFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Left">
+              <BackColor A="255" R="232" G="240" B="255" />
+            </DefaultRowHeaderFormatInfo>
+            <DefaultColumnHeaderFormatInfo TextWrap="Undefined" VerticalAlignment="Middle" HorizontalAlignment="Center">
+              <BackColor A="255" R="220" G="228" B="252" />
+            </DefaultColumnHeaderFormatInfo>
+            <RootRowHeader Id="0" Guid="bf412568-9959-448a-a6f4-a849b5747730" DefinitionGuid="bf412568-9959-448a-a6f4-a849b5747730" DisplayText="" HeaderType="None" Depth="0" DescendantSpan="3" LeafSpan="2" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+              <Children>
+                <GridHeaderItem Id="0" Guid="88ea6910-b251-40e6-8453-824a9e7bb4bd" DefinitionGuid="88ea6910-b251-40e6-8453-824a9e7bb4bd" DisplayText="Manage High Risk Projects" DimensionName="Scorecard__" DimensionValue="00ded892-4080-437a-957a-0e08753e612b" HeaderType="Kpi" Depth="1" DescendantSpan="2" LeafSpan="2" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00ded892-4080-437a-957a-0e08753e612b" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children>
+                    <GridHeaderItem Id="0" Guid="e58b194f-988e-4df1-96de-8b0bbe2db5a1" DefinitionGuid="e58b194f-988e-4df1-96de-8b0bbe2db5a1" DisplayText="Costs for High Risk Projects" DimensionName="Scorecard__" DimensionValue="967eeef3-3d84-4bba-b66c-6ef43b15aa05" HeaderType="Kpi" Depth="2" DescendantSpan="1" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="967eeef3-3d84-4bba-b66c-6ef43b15aa05" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                      <Children>
+                        <GridHeaderItem Id="0" Guid="ca19611a-5384-4f99-8a92-a298c491909d" DefinitionGuid="ca19611a-5384-4f99-8a92-a298c491909d" DisplayText="Custom" HeaderType="NamedSet" Depth="3" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" NamedSetExpression="exists(&#xD;&#xA;descendants([Project List].[All Project List], 8888, leaves),&#xD;&#xA;[GOV Risk Level_Project].[GOV Risk Level_Project].[High],&#xD;&#xA;&quot;Assignment Timephased&quot;) " IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="true" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                          <Children />
+                          <BpmProperties />
+                          <ReportViewInstances />
+                        </GridHeaderItem>
+                      </Children>
+                      <BpmProperties />
+                      <ReportViewInstances />
+                    </GridHeaderItem>
+                    <GridHeaderItem Id="0" Guid="d013e8ba-67cb-4c68-9c04-f0a5c0369d8e" DefinitionGuid="d013e8ba-67cb-4c68-9c04-f0a5c0369d8e" DisplayText="Work for High Risk Projects" DimensionName="Scorecard__" DimensionValue="d5e01142-7f64-4a6b-a719-e6710a8bc827" HeaderType="Kpi" Depth="2" DescendantSpan="1" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="d5e01142-7f64-4a6b-a719-e6710a8bc827" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                      <Children>
+                        <GridHeaderItem Id="0" Guid="14a850b4-047b-407c-ba70-c17707bc57c5" DefinitionGuid="14a850b4-047b-407c-ba70-c17707bc57c5" DisplayText="Custom" HeaderType="NamedSet" Depth="3" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" NamedSetExpression="exists(&#xD;&#xA;descendants([Project List].[All Project List], 8888, leaves),&#xD;&#xA;[GOV Risk Level_Project].[GOV Risk Level_Project].[High],&#xD;&#xA;&quot;Assignment Timephased&quot;) " IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="true" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                          <Children />
+                          <BpmProperties />
+                          <ReportViewInstances />
+                        </GridHeaderItem>
+                      </Children>
+                      <BpmProperties />
+                      <ReportViewInstances />
+                    </GridHeaderItem>
+                  </Children>
+                  <BpmProperties />
+                  <ReportViewInstances />
+                </GridHeaderItem>
+              </Children>
+              <BpmProperties />
+              <ReportViewInstances />
+            </RootRowHeader>
+            <RootColumnHeader Id="0" Guid="ef46e37b-e2a8-48d4-afda-b2dc67fd1e2d" DefinitionGuid="ef46e37b-e2a8-48d4-afda-b2dc67fd1e2d" DisplayText="" HeaderType="None" Depth="0" DescendantSpan="1" LeafSpan="4" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+              <Children>
+                <GridHeaderItem Id="0" Guid="fc581972-3ef4-4a61-b9ab-7884dfa6b93c" DefinitionGuid="fc581972-3ef4-4a61-b9ab-7884dfa6b93c" DisplayText="Actual" DimensionName="Scorecard_Measures__" DimensionValue="Actual" HeaderType="KpiActual" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Actual" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+                <GridHeaderItem Id="0" Guid="4644e07e-9cc0-4d1d-a367-1a5c2776015a" DefinitionGuid="4644e07e-9cc0-4d1d-a367-1a5c2776015a" DisplayText="Target" DimensionName="Scorecard_Measures__" DimensionValue="Target" HeaderType="KpiTarget" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Target" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+                <GridHeaderItem Id="0" Guid="91159c12-c8ec-4ec0-89af-f0fee755ab77" DefinitionGuid="91159c12-c8ec-4ec0-89af-f0fee755ab77" DisplayText="Prior Period" DimensionName="Scorecard_Measures__" DimensionValue="Prior Period" HeaderType="KpiTarget" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Prior Period" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+                <GridHeaderItem Id="0" Guid="db3f6dd0-89d0-4691-8ba9-a4ce69077dae" DefinitionGuid="db3f6dd0-89d0-4691-8ba9-a4ce69077dae" DisplayText="Compare to All" DimensionName="Scorecard_Measures__" DimensionValue="Compare to All" HeaderType="KpiTarget" Depth="1" DescendantSpan="0" LeafSpan="1" IsCollapsed="false" IsCellHidden="false" IsPathHidden="false" IsHiddenBasedOnFilterStatus="false" IsNamedSetInError="false" IsNamedSetEmpty="false" IsCustomNamedSetFormula="false" OverrideIndicatorId="00000000-0000-0000-0000-000000000000" LinkedKpiId="00000000-0000-0000-0000-000000000000" UseLinkedElementDisplayText="true" ShowHyperlinkInNewWindow="false" AppendFilterInfoToHyperlink="false" Weight="1" KpiTargetName="Compare to All" AggregationType="None" TrendIndicatorId="00000000-0000-0000-0000-000000000000">
+                  <Children />
+                  <BpmProperties />
+                  <ReportViewInstances />
+                  <TargetSettings ShowImage="true" ShowText="false" ShowBackColor="false" ShowForeColor="false" ShowScore="false" ShowValue="true" ShowActualAsTarget="false" IgnoreScoreFilter="false" RollupType="AverageWeighted" ScoreType="Normalized" />
+                </GridHeaderItem>
+              </Children>
+              <BpmProperties />
+              <ReportViewInstances />
+            </RootColumnHeader>
+            <DefaultRollupIndicatorId>00000000-0000-0000-0000-000000000000</DefaultRollupIndicatorId>
+            <PageFilters />
+          </GridViewDefinition>
+        </ConfiguredView>
+      </ConfiguredViews>
+      <EndPoints>
+        <EndPoint UniqueName="Filters" DisplayName="Filters" AcceptsMultipleFilterLinks="true" />
+        <EndPoint UniqueName="Row" DisplayName="Row" AcceptsMultipleFilterLinks="false" />
+        <EndPoint UniqueName="Column" DisplayName="Column" AcceptsMultipleFilterLinks="false" />
+      </EndPoints>
+      <BeginPoints>
+        <ParameterDefinition>
+          <ParameterUniqueName>bc320646-7c1d-410d-8af5-e5f2b3c2f1e3</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="KpiId" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Name" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Description" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="Person_x0020_Responsible" msprop:NotShowColumnForCondVisibility="True" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>KpiRowHeader</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardKpiProvider</ParameterProviderId>
+          <DisplayName>KpiRowHeader</DisplayName>
+          <EmitterType>BothAConditionalVisibilityAndParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>d712b179-fd4d-4801-b491-c6279c5514bc</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>Cell</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardCellProvider</ParameterProviderId>
+          <DisplayName>Cell</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>6154e0cc-9ca2-4d2a-b563-806a3ccd4023</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="MemberUniqueName" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>RowMember</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardRowMemberProvider</ParameterProviderId>
+          <DisplayName>RowMember</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+        <ParameterDefinition>
+          <ParameterUniqueName>e1140ce3-0309-43a0-a906-f09ebd543dca</ParameterUniqueName>
+          <DisplayValues>
+            <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+              <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                <xs:complexType>
+                  <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="ParameterData">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Key" type="xs:string" minOccurs="0" />
+                          <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                          <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                          <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                          <xs:element name="MemberUniqueName" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+            </xs:schema>
+            <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+          </DisplayValues>
+          <CustomDefinition>ColumnMember</CustomDefinition>
+          <ParameterProviderId>ParameterScorecardColumnMemberProvider</ParameterProviderId>
+          <DisplayName>ColumnMember</DisplayName>
+          <EmitterType>ParameterEmitter</EmitterType>
+          <KeyColumn>Key</KeyColumn>
+          <ParentKeyColumn>ParentKey</ParentKeyColumn>
+          <DisplayColumn>DisplayValue</DisplayColumn>
+          <IsDefaultColumn>IsDefault</IsDefaultColumn>
+          <DefaultPostFormula />
+        </ParameterDefinition>
+      </BeginPoints>
+    </Scorecard>
+  </ScorecardsInWorkspace>
+  <DashboardsInWorkspace>
+    <Dashboard Guid="b59f67b9-5b29-40a2-bb29-d354fa8dcca9" Folder="" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-08T15:04:29.054-08:00" Version="1" TemplateType="1Zone">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="CPI" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Pages>
+        <DashboardElement xsi:type="DashboardElementContainer" Guid="9f98c062-7039-432c-b542-a76a45684c38" Orientation="HorizontalLeftJustified">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Page 1" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+            <BpmProperty xsi:type="BpmPropertyDate" UniqueName="UpdateDate" Required="false" Visible="false" Date="2008-12-08T15:04:24.396-08:00" />
+          </Properties>
+          <Comments />
+          <Height Measurement="100" Units="Percent" />
+          <Width Measurement="100" Units="Percent" />
+          <DashboardElements>
+            <DashboardElement xsi:type="DashboardElementContainer" Guid="69443f27-8c1a-4007-b1f0-82a8456cd5cc" Orientation="VerticalTopJustified">
+              <Properties>
+                <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Column" />
+                <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+              </Properties>
+              <Comments />
+              <Height Measurement="100" Units="Percent" />
+              <Width Measurement="100" Units="Percent" />
+              <DashboardElements>
+                <DashboardElement xsi:type="DashboardItem" Guid="109a814d-d7a6-4561-bc5b-23f6fa9eff79" UnderlyingElementId="82e929a2-f964-40cb-91b1-a14256b95ad2" UnderlyingElementTypeName="Microsoft.PerformancePoint.Scorecards.Scorecard, Microsoft.PerformancePoint.Scorecards.Client, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" CacheOption="NoCache" RenderAsImage="false" AutoSizeWidth="true" AutoSizeHeight="true">
+                  <Properties>
+                    <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+                  </Properties>
+                  <Comments />
+                  <Height Measurement="100" Units="Percent" />
+                  <Width Measurement="100" Units="Percent" />
+                  <InboundParameters />
+                </DashboardElement>
+              </DashboardElements>
+            </DashboardElement>
+          </DashboardElements>
+        </DashboardElement>
+      </Pages>
+      <ParameterElements />
+    </Dashboard>
+    <Dashboard Guid="c29ae415-b728-4fe3-b868-abbfed41c322" Folder="" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-14T16:44:40.035-08:00" Version="5" TemplateType="2Rows">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="High Risk Projects" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Pages>
+        <DashboardElement xsi:type="DashboardElementContainer" Guid="8af1f721-c0cf-4c09-8f4e-9cfde6dee316" Orientation="VerticalTopJustified">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Page 1" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+            <BpmProperty xsi:type="BpmPropertyDate" UniqueName="UpdateDate" Required="false" Visible="false" Date="2008-12-14T16:44:36.49-08:00" />
+          </Properties>
+          <Comments />
+          <Height Measurement="100" Units="Percent" />
+          <Width Measurement="100" Units="Percent" />
+          <DashboardElements>
+            <DashboardElement xsi:type="DashboardElementContainer" Guid="947db269-447e-4cc8-964c-57d8b6d5693d" Orientation="HorizontalLeftJustified">
+              <Properties>
+                <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Top Row" />
+                <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+              </Properties>
+              <Comments />
+              <Height Measurement="33" Units="Percent" />
+              <Width Measurement="100" Units="Percent" />
+              <DashboardElements>
+                <DashboardElement xsi:type="DashboardItem" Guid="47eca90b-91e7-4016-85a3-5b0bf688f8de" UnderlyingElementId="cfc057e9-2e10-4969-9cc5-dc43992038c7" UnderlyingElementTypeName="Microsoft.PerformancePoint.Scorecards.ParameterUIElement, Microsoft.PerformancePoint.Scorecards.Client, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" CacheOption="NoCache" RenderAsImage="false" AutoSizeWidth="true" AutoSizeHeight="true">
+                  <Properties>
+                    <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+                  </Properties>
+                  <Comments />
+                  <Height Measurement="33" Units="Percent" />
+                  <Width Measurement="100" Units="Percent" />
+                  <InboundParameters />
+                </DashboardElement>
+              </DashboardElements>
+            </DashboardElement>
+            <DashboardElement xsi:type="DashboardElementContainer" Guid="330d7ed1-463a-4ac1-9da9-4519abf4d489" Orientation="HorizontalLeftJustified">
+              <Properties>
+                <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Bottom Row" />
+                <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+              </Properties>
+              <Comments />
+              <Height Measurement="33" Units="Percent" />
+              <Width Measurement="100" Units="Percent" />
+              <DashboardElements>
+                <DashboardElement xsi:type="DashboardItem" Guid="d928bf6c-5a5d-4b09-ac76-1f96dbccd5e8" UnderlyingElementId="237aecc4-0553-42ee-af78-29dd8768a46e" UnderlyingElementTypeName="Microsoft.PerformancePoint.Scorecards.Scorecard, Microsoft.PerformancePoint.Scorecards.Client, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" CacheOption="NoCache" RenderAsImage="false" AutoSizeWidth="true" AutoSizeHeight="true">
+                  <Properties>
+                    <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+                  </Properties>
+                  <Comments />
+                  <Height Measurement="33" Units="Percent" />
+                  <Width Measurement="100" Units="Percent" />
+                  <InboundParameters>
+                    <ParameterMapping EndPointUniqueName="Filters" Id="06a8533d-1abb-4a89-8698-bbdde07d708a" SourceColumnName="MemberUniqueName" DashboardItemId="47eca90b-91e7-4016-85a3-5b0bf688f8de" ParameterUniqueName="cfc057e9-2e10-4969-9cc5-dc43992038c7" IsConditionalDataEnabled="false" />
+                  </InboundParameters>
+                </DashboardElement>
+              </DashboardElements>
+            </DashboardElement>
+            <DashboardElement xsi:type="DashboardElementContainer" Guid="f586893c-6e62-40ea-ba80-77d9a06dad4a" Orientation="HorizontalLeftJustified">
+              <Properties>
+                <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Zone 1" />
+                <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+              </Properties>
+              <Comments />
+              <Height Measurement="34" Units="Percent" />
+              <Width Measurement="100" Units="Percent" />
+              <DashboardElements>
+                <DashboardElement xsi:type="DashboardItem" Guid="eb9d0418-ccd1-4fd3-86a8-9e07bbf1376c" UnderlyingElementId="7616f855-61d4-4a14-b087-665a184e9652" UnderlyingElementTypeName="Microsoft.PerformancePoint.Scorecards.ReportView, Microsoft.PerformancePoint.Scorecards.Client, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" CacheOption="NoCache" RenderAsImage="false" AutoSizeWidth="false" AutoSizeHeight="false">
+                  <Properties>
+                    <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+                    <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+                  </Properties>
+                  <Comments />
+                  <Height Measurement="34" Units="Percent" />
+                  <Width Measurement="100" Units="Percent" />
+                  <InboundParameters>
+                    <ParameterMapping EndPointUniqueName="Time" Id="8bff47dc-e103-48f6-9a5b-ddefbc1a8b45" SourceColumnName="MemberUniqueName" DashboardItemId="47eca90b-91e7-4016-85a3-5b0bf688f8de" ParameterUniqueName="cfc057e9-2e10-4969-9cc5-dc43992038c7" IsConditionalDataEnabled="false" />
+                  </InboundParameters>
+                </DashboardElement>
+              </DashboardElements>
+            </DashboardElement>
+          </DashboardElements>
+        </DashboardElement>
+      </Pages>
+      <ParameterElements>
+        <ParameterUIElement Guid="cfc057e9-2e10-4969-9cc5-dc43992038c7" ReadOnly="false" SelectionMode="SingleSelect" Visualization="SingleSelectList">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Time" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="DataSourceType" Required="false" Visible="false" Text="MemberSelection" />
+          </Properties>
+          <Comments />
+          <DataSourceId>24e34232-9645-4333-b574-08f042e3ed62</DataSourceId>
+          <BeginPoints>
+            <ParameterDefinition>
+              <ParameterUniqueName>cfc057e9-2e10-4969-9cc5-dc43992038c7</ParameterUniqueName>
+              <DisplayValues>
+                <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+                  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ParameterData" msdata:UseCurrentLocale="true">
+                    <xs:complexType>
+                      <xs:choice minOccurs="0" maxOccurs="unbounded">
+                        <xs:element name="ParameterData">
+                          <xs:complexType>
+                            <xs:sequence>
+                              <xs:element name="Key" type="xs:string" minOccurs="0" />
+                              <xs:element name="ParentKey" type="xs:string" minOccurs="0" />
+                              <xs:element name="DisplayValue" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                              <xs:element name="IsDefault" type="xs:boolean" minOccurs="0" />
+                              <xs:element name="MemberUniqueName" msprop:ShowColumn="True" type="xs:string" minOccurs="0" />
+                            </xs:sequence>
+                          </xs:complexType>
+                        </xs:element>
+                      </xs:choice>
+                    </xs:complexType>
+                  </xs:element>
+                </xs:schema>
+                <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1" />
+              </DisplayValues>
+              <CustomDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;MemberParameterDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Dimension DisplayName="Fiscal Time.Fiscal Time" UniqueName="[Fiscal Time]" Description="" IsMeasureDimension="false" DefaultMemberName="[Fiscal Time].[All Time]"&gt;
+    &lt;Type&gt;Unknown&lt;/Type&gt;
+    &lt;Hierarchies /&gt;
+    &lt;Levels&gt;
+      &lt;Level DisplayName="(All)" UniqueName="[Fiscal Time].[(All)]" Description="" DimensionUniqueName="[Fiscal Time]" IsAllLevel="true" /&gt;
+      &lt;Level DisplayName="Fiscal Year" UniqueName="[Fiscal Time].[Fiscal Year]" Description="" DimensionUniqueName="[Fiscal Time]" IsAllLevel="false" /&gt;
+      &lt;Level DisplayName="Fiscal Quarter" UniqueName="[Fiscal Time].[Fiscal Quarter]" Description="" DimensionUniqueName="[Fiscal Time]" IsAllLevel="false" /&gt;
+      &lt;Level DisplayName="Fiscal Period" UniqueName="[Fiscal Time].[Fiscal Period]" Description="" DimensionUniqueName="[Fiscal Time]" IsAllLevel="false" /&gt;
+      &lt;Level DisplayName="Fiscal Day" UniqueName="[Fiscal Time].[Fiscal Day]" Description="" DimensionUniqueName="[Fiscal Time]" IsAllLevel="false" /&gt;
+    &lt;/Levels&gt;
+  &lt;/Dimension&gt;
+  &lt;Members&gt;
+    &lt;Member DisplayName="2008" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008]" LevelName="[Fiscal Time].[Fiscal Year]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="1" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 1" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[1].&amp;amp;[FY08 Month 1]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 2" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[1].&amp;amp;[FY08 Month 2]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 3" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[1].&amp;amp;[FY08 Month 3]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 4" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[2].&amp;amp;[FY08 Month 4]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 5" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[2].&amp;amp;[FY08 Month 5]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 6" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[2].&amp;amp;[FY08 Month 6]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 7" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[3].&amp;amp;[FY08 Month 7]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 8" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[3].&amp;amp;[FY08 Month 8]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 9" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[3].&amp;amp;[FY08 Month 9]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 10" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[4].&amp;amp;[FY08 Month 10]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 11" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[4].&amp;amp;[FY08 Month 11]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+    &lt;Member DisplayName="FY08 Month 12" UniqueName="[Fiscal Time].[Fiscal Year].&amp;amp;[2008].&amp;amp;[4].&amp;amp;[FY08 Month 12]" LevelName="[Fiscal Time].[Fiscal Period]" DimensionName="Fiscal Time.Fiscal Time" LevelDepth="3" ChildCount="1000" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Fiscal Time]" MemberType="Regular" /&gt;
+  &lt;/Members&gt;
+  &lt;DefaultMembers /&gt;
+&lt;/MemberParameterDefinition&gt;</CustomDefinition>
+              <ParameterProviderId>MemberParameterDataProvider</ParameterProviderId>
+              <DisplayName>Time</DisplayName>
+              <EmitterType>BothAConditionalVisibilityAndParameterEmitter</EmitterType>
+              <KeyColumn>Key</KeyColumn>
+              <ParentKeyColumn>ParentKey</ParentKeyColumn>
+              <DisplayColumn>DisplayValue</DisplayColumn>
+              <IsDefaultColumn>IsDefault</IsDefaultColumn>
+              <DefaultPostFormula />
+            </ParameterDefinition>
+          </BeginPoints>
+          <EndPoints />
+        </ParameterUIElement>
+      </ParameterElements>
+    </Dashboard>
+  </DashboardsInWorkspace>
+  <KpisInWorkspace>
+    <Kpi Guid="afd5cbe2-d22d-4ec7-84b7-a48cd14253f8" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-08T17:26:09.671-08:00" Version="11">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="CPI" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Actual Guid="1c27e7f1-06e1-4d33-a97f-a684118cf83a" OwnerKpiId="afd5cbe2-d22d-4ec7-84b7-a48cd14253f8" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" CurrentFormula="iif  (coalesceempty( [Measures].[ACWP] ,0)=0 , null,&#xA;&#xD;&#xA;[Measures].[BCWP]/&#xA;[Measures].[ACWP]  )  &#xD;&#xA;&#xD;&#xA;" IsCustomCurrentFormula="true" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="7eaecac9-9336-4eb9-98b3-3d8a9cbc4939" TimeFilterFormula="" ValueSource="Default">
+        <Properties>
+          <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Actual" />
+          <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+          <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+        </Properties>
+        <Comments />
+        <DefaultDimensionSettings />
+        <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+      </Actual>
+      <Targets>
+        <Target Guid="5673f478-a1e2-46cb-80e2-514d34f89493" OwnerKpiId="afd5cbe2-d22d-4ec7-84b7-a48cd14253f8" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="CloserToTargetIsBetter" IsCustomCurrentFormula="false" OverrideDisplayFormat="false" OverrideHoverText="" DataSourceId="00000000-0000-0000-0000-000000000000" ValueSource="Default" IndicatorId="3371667b-8721-40e6-b58a-2ba1ee5811bd" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Target" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="2">
+            <CustomBoundary>
+              <decimal>0.3333</decimal>
+              <decimal>0.6667</decimal>
+              <decimal>1.00</decimal>
+              <decimal>1.50</decimal>
+              <decimal>1.6667</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+      </Targets>
+      <ReportViewInstances />
+    </Kpi>
+    <Kpi Guid="00ded892-4080-437a-957a-0e08753e612b" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:43.686-08:00" Version="2">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Manage High Risk Projects" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Actual Guid="12604f69-7386-4432-91e4-6dbce21c762b" OwnerKpiId="00ded892-4080-437a-957a-0e08753e612b" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" IsCustomCurrentFormula="false" OverrideDisplayFormat="false" OverrideHoverText="" DataSourceId="00000000-0000-0000-0000-000000000000" ValueSource="NoValue">
+        <Properties>
+          <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Actual" />
+          <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+          <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+        </Properties>
+        <Comments />
+        <DefaultDimensionSettings />
+        <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+      </Actual>
+      <Targets>
+        <Target Guid="72786d94-bca1-4cb3-9733-6dfdb0d0ed8b" OwnerKpiId="00ded892-4080-437a-957a-0e08753e612b" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" IsCustomCurrentFormula="false" OverrideDisplayFormat="false" OverrideHoverText="" DataSourceId="00000000-0000-0000-0000-000000000000" ValueSource="NoValue" IndicatorId="6c5da588-2f57-4ab6-ae75-ce135347978d" IsRollupScore="true">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Target" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.50</decimal>
+              <decimal>1</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+        <Target Guid="d52680f7-c4e9-4743-b14e-153072eb073f" OwnerKpiId="00ded892-4080-437a-957a-0e08753e612b" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" IsCustomCurrentFormula="false" OverrideDisplayFormat="false" OverrideHoverText="" DataSourceId="00000000-0000-0000-0000-000000000000" ValueSource="NoValue" IndicatorId="00000000-0000-0000-0000-000000000000" IsRollupScore="true">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Prior Period" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1">
+            <CustomBoundary />
+          </Banding>
+        </Target>
+        <Target Guid="b41c8519-4454-4828-acc1-8f4830de276e" OwnerKpiId="00ded892-4080-437a-957a-0e08753e612b" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" IsCustomCurrentFormula="false" OverrideDisplayFormat="false" OverrideHoverText="" DataSourceId="00000000-0000-0000-0000-000000000000" ValueSource="NoValue" IndicatorId="00000000-0000-0000-0000-000000000000" IsRollupScore="true">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Compare to All" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1">
+            <CustomBoundary />
+          </Banding>
+        </Target>
+      </Targets>
+      <ReportViewInstances />
+    </Kpi>
+    <Kpi Guid="967eeef3-3d84-4bba-b66c-6ef43b15aa05" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:49.772-08:00" Version="68">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Costs for High Risk Projects" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Actual Guid="f9877ef5-f7b8-42dc-bd0f-9620d7344762" OwnerKpiId="967eeef3-3d84-4bba-b66c-6ef43b15aa05" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" CurrentFormula="" IsCustomCurrentFormula="false" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default">
+        <Properties>
+          <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Actual" />
+          <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+          <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+        </Properties>
+        <Comments />
+        <DefaultDimensionSettings>
+          <DefaultDimensionSetting DisplayName="{[Measures].[Measures]}" UniqueName="[Measures]" IsMeasureDimension="true" DefaultMemberName="" IsVisible="true" ShowAsSlider="false">
+            <Type>Unknown</Type>
+            <Hierarchies />
+            <Levels>
+              <Level DisplayName="MeasureLevel" UniqueName="MeasureLevel" DimensionUniqueName="[Measures]" IsAllLevel="false" />
+            </Levels>
+            <DefaultMember DisplayName="Actual Cost" UniqueName="[Measures].[Actual Cost]" LevelName="[Measures].[MeasuresLevel]" DimensionName="Measures.Measures" LevelDepth="0" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Measures]" MemberType="Regular" />
+          </DefaultDimensionSetting>
+          <DefaultDimensionSetting DisplayName="GOV Risk Level_Project.GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project]" Description="" IsMeasureDimension="false" DefaultMemberName="[GOV Risk Level_Project].[All GOV Risk Level_Project]" IsVisible="true" ShowAsSlider="false">
+            <Type>Unknown</Type>
+            <Hierarchies />
+            <Levels>
+              <Level DisplayName="(All)" UniqueName="[GOV Risk Level_Project].[(All)]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+              <Level DisplayName="GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+            </Levels>
+            <DefaultMember DisplayName="High" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project].&amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}]" LevelName="[GOV Risk Level_Project].[GOV Risk Level_Project]" DimensionName="GOV Risk Level_Project.GOV Risk Level_Project" LevelDepth="1" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[GOV Risk Level_Project]" MemberType="Regular" />
+          </DefaultDimensionSetting>
+        </DefaultDimensionSettings>
+        <OverrideFormatSettings NoOfDecimals="0" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+      </Actual>
+      <Targets>
+        <Target Guid="3ae7234a-7d8f-4a1d-b8ab-a0e1f5250856" OwnerKpiId="967eeef3-3d84-4bba-b66c-6ef43b15aa05" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="" IsCustomCurrentFormula="false" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default" IndicatorId="6c5da588-2f57-4ab6-ae75-ce135347978d" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Target" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings>
+            <DefaultDimensionSetting DisplayName="{[Measures].[Measures]}" UniqueName="[Measures]" IsMeasureDimension="true" DefaultMemberName="" IsVisible="true" ShowAsSlider="false">
+              <Type>Unknown</Type>
+              <Hierarchies />
+              <Levels>
+                <Level DisplayName="MeasureLevel" UniqueName="MeasureLevel" DimensionUniqueName="[Measures]" IsAllLevel="false" />
+              </Levels>
+              <DefaultMember DisplayName="Baseline Cost" UniqueName="[Measures].[Baseline Cost]" LevelName="[Measures].[MeasuresLevel]" DimensionName="Measures.Measures" LevelDepth="0" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Measures]" MemberType="Regular" />
+            </DefaultDimensionSetting>
+            <DefaultDimensionSetting DisplayName="GOV Risk Level_Project.GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project]" Description="" IsMeasureDimension="false" DefaultMemberName="[GOV Risk Level_Project].[All GOV Risk Level_Project]" IsVisible="true" ShowAsSlider="false">
+              <Type>Unknown</Type>
+              <Hierarchies />
+              <Levels>
+                <Level DisplayName="(All)" UniqueName="[GOV Risk Level_Project].[(All)]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+                <Level DisplayName="GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+              </Levels>
+              <DefaultMember DisplayName="High" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project].&amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}]" LevelName="[GOV Risk Level_Project].[GOV Risk Level_Project]" DimensionName="GOV Risk Level_Project.GOV Risk Level_Project" LevelDepth="1" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[GOV Risk Level_Project]" MemberType="Regular" />
+            </DefaultDimensionSetting>
+          </DefaultDimensionSettings>
+          <OverrideFormatSettings NoOfDecimals="0" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.8</decimal>
+              <decimal>0.9</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+        <Target Guid="28544c6f-ab95-4838-ac2b-bc58c9b912a2" OwnerKpiId="967eeef3-3d84-4bba-b66c-6ef43b15aa05" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="([Measures].[Actual Cost],  [Fiscal Time].[Fiscal Time].currentmember.lag(1),[GOV Risk Level_Project].[GOV Risk Level_Project].[High])" IsCustomCurrentFormula="true" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="NoValue" IndicatorId="dc96ba56-72b3-4832-b327-fa0cf88e59f3" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Prior Period" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="0" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.24</decimal>
+              <decimal>0.48</decimal>
+              <decimal>0.72</decimal>
+              <decimal>0.96</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+        <Target Guid="d0f80be9-de32-4487-ade6-9b86be21ad09" OwnerKpiId="967eeef3-3d84-4bba-b66c-6ef43b15aa05" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="([Measures].[Actual Cost],[Project List].[All Project List]) /&#xD;&#xA;descendants(  &#xD;&#xA;{[Project List].[Project List].[All Project List]} ,888,leaves).count&#xD;&#xA;" IsCustomCurrentFormula="true" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="NoValue" IndicatorId="6c5da588-2f57-4ab6-ae75-ce135347978d" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Compare to All" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="0" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.4</decimal>
+              <decimal>0.8</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+      </Targets>
+      <ReportViewInstances />
+    </Kpi>
+    <Kpi Guid="d5e01142-7f64-4a6b-a719-e6710a8bc827" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:49.938-08:00" Version="4">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Work for High Risk Projects" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Actual Guid="e826c55d-af48-4cc3-8966-379f9c7ce994" OwnerKpiId="d5e01142-7f64-4a6b-a719-e6710a8bc827" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="IncreasingIsBetter" CurrentFormula="" IsCustomCurrentFormula="false" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default">
+        <Properties>
+          <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Actual" />
+          <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+          <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+        </Properties>
+        <Comments />
+        <DefaultDimensionSettings>
+          <DefaultDimensionSetting DisplayName="{[Measures].[Measures]}" UniqueName="[Measures]" IsMeasureDimension="true" DefaultMemberName="" IsVisible="true" ShowAsSlider="false">
+            <Type>Unknown</Type>
+            <Hierarchies />
+            <Levels>
+              <Level DisplayName="MeasureLevel" UniqueName="MeasureLevel" DimensionUniqueName="[Measures]" IsAllLevel="false" />
+            </Levels>
+            <DefaultMember DisplayName="Actual Work" UniqueName="[Measures].[Actual Work]" LevelName="[Measures].[MeasuresLevel]" DimensionName="Measures.Measures" LevelDepth="0" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Measures]" MemberType="Regular" />
+          </DefaultDimensionSetting>
+          <DefaultDimensionSetting DisplayName="GOV Risk Level_Project.GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project]" Description="" IsMeasureDimension="false" DefaultMemberName="[GOV Risk Level_Project].[All GOV Risk Level_Project]" IsVisible="true" ShowAsSlider="false">
+            <Type>Unknown</Type>
+            <Hierarchies />
+            <Levels>
+              <Level DisplayName="(All)" UniqueName="[GOV Risk Level_Project].[(All)]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+              <Level DisplayName="GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+            </Levels>
+            <DefaultMember DisplayName="High" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project].&amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}]" LevelName="[GOV Risk Level_Project].[GOV Risk Level_Project]" DimensionName="GOV Risk Level_Project.GOV Risk Level_Project" LevelDepth="1" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[GOV Risk Level_Project]" MemberType="Regular" />
+          </DefaultDimensionSetting>
+        </DefaultDimensionSettings>
+        <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+      </Actual>
+      <Targets>
+        <Target Guid="7f88462b-df04-4975-8a0c-072e46ce8617" OwnerKpiId="d5e01142-7f64-4a6b-a719-e6710a8bc827" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="" IsCustomCurrentFormula="false" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default" IndicatorId="6c5da588-2f57-4ab6-ae75-ce135347978d" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Target" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings>
+            <DefaultDimensionSetting DisplayName="{[Measures].[Measures]}" UniqueName="[Measures]" IsMeasureDimension="true" DefaultMemberName="" IsVisible="true" ShowAsSlider="false">
+              <Type>Unknown</Type>
+              <Hierarchies />
+              <Levels>
+                <Level DisplayName="MeasureLevel" UniqueName="MeasureLevel" DimensionUniqueName="[Measures]" IsAllLevel="false" />
+              </Levels>
+              <DefaultMember DisplayName="Baseline Work" UniqueName="[Measures].[Baseline Work]" LevelName="[Measures].[MeasuresLevel]" DimensionName="Measures.Measures" LevelDepth="0" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[Measures]" MemberType="Regular" />
+            </DefaultDimensionSetting>
+            <DefaultDimensionSetting DisplayName="GOV Risk Level_Project.GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project]" Description="" IsMeasureDimension="false" DefaultMemberName="[GOV Risk Level_Project].[All GOV Risk Level_Project]" IsVisible="true" ShowAsSlider="false">
+              <Type>Unknown</Type>
+              <Hierarchies />
+              <Levels>
+                <Level DisplayName="(All)" UniqueName="[GOV Risk Level_Project].[(All)]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+                <Level DisplayName="GOV Risk Level_Project" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project]" Description="" DimensionUniqueName="[GOV Risk Level_Project]" IsAllLevel="false" />
+              </Levels>
+              <DefaultMember DisplayName="High" UniqueName="[GOV Risk Level_Project].[GOV Risk Level_Project].&amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}]" LevelName="[GOV Risk Level_Project].[GOV Risk Level_Project]" DimensionName="GOV Risk Level_Project.GOV Risk Level_Project" LevelDepth="1" ChildCount="0" IsChildCountReal="false" IsAllLevel="false" DimensionUniqueName="[GOV Risk Level_Project]" MemberType="Regular" />
+            </DefaultDimensionSetting>
+          </DefaultDimensionSettings>
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.8</decimal>
+              <decimal>0.9</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+        <Target Guid="10ffb899-b527-4727-9398-1309d902b32e" OwnerKpiId="d5e01142-7f64-4a6b-a719-e6710a8bc827" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="([Measures].[Actual Work], [Fiscal Time].[Fiscal Time].currentmember.lag(1))" IsCustomCurrentFormula="true" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default" IndicatorId="dc96ba56-72b3-4832-b327-fa0cf88e59f3" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Prior Period" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.24</decimal>
+              <decimal>0.48</decimal>
+              <decimal>0.72</decimal>
+              <decimal>0.96</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+        <Target Guid="e703235d-c8b7-4d99-954b-89ac60b7ba03" OwnerKpiId="d5e01142-7f64-4a6b-a719-e6710a8bc827" ModelCurrent="1" UnitOfMeasure="Decimal" Pattern="DecreasingIsBetter" CurrentFormula="([Measures].[Work Cost],[Project List].[All Project List]) /&#xD;&#xA;descendants(   &#xD;&#xA;{[Project List].[Project List].[All Project List]} ,888,leaves).count  &#xD;&#xA;" IsCustomCurrentFormula="true" OdbcQuery="" OverrideDisplayFormat="true" OverrideHoverText="" DataSourceId="24e34232-9645-4333-b574-08f042e3ed62" TimeFilterFormula="" ValueSource="Default" IndicatorId="6c5da588-2f57-4ab6-ae75-ce135347978d" IsRollupScore="false">
+          <Properties>
+            <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Compare to All" />
+            <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+            <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="" />
+          </Properties>
+          <Comments />
+          <DefaultDimensionSettings />
+          <OverrideFormatSettings NoOfDecimals="2" LeftSymbols="" RightSymbols="" UseNegativeSign="true" ShowZeroAs="" Multiplier="1" />
+          <Banding Type="Normalized" ActualWorst="0" SpreadMinimum="0" SpreadMaximum="1.2">
+            <CustomBoundary>
+              <decimal>0.4</decimal>
+              <decimal>0.8</decimal>
+            </CustomBoundary>
+          </Banding>
+        </Target>
+      </Targets>
+      <ReportViewInstances />
+    </Kpi>
+  </KpisInWorkspace>
+  <DataSourcesInWorkspace>
+    <DataSource Guid="24e34232-9645-4333-b574-08f042e3ed62" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2008-11-24T12:10:55.014-08:00" Version="1" SourceName="ADOMD.NET" ServerName="wgb-pc\sql2005" DatabaseName="epm2007Demo" CubeName="Assignment Timephased" CubeDisplayName="Assignment Timephased" ConnectionString="" Roles="" UseConnectionString="false" ReadOnly="false" MinutesToCache="10" ServerMajorVersion="9">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Assignment" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Variables />
+      <CustomTimeIntelligenceSettings>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;TimeIntelligenceMdxSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Enabled&gt;true&lt;/Enabled&gt;
+  &lt;ReferenceLevel&gt;None&lt;/ReferenceLevel&gt;
+  &lt;ReferenceDateTime&gt;0001-01-01T00:00:00&lt;/ReferenceDateTime&gt;
+  &lt;LevelBindings /&gt;
+&lt;/TimeIntelligenceMdxSettings&gt;</CustomTimeIntelligenceSettings>
+      <DataTableMapping DateAggregationType="Year" CalendarStartMonth="0">
+        <ColumnMappings />
+      </DataTableMapping>
+    </DataSource>
+    <DataSource Guid="7eaecac9-9336-4eb9-98b3-3d8a9cbc4939" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-05T16:12:32.1239142-08:00" Version="1" SourceName="ADOMD.NET" ServerName="wgb-pc\sql2005" DatabaseName="epm2007Demo" CubeName="Assignment Non Timephased" CubeDisplayName="Assignment Non Timephased" ConnectionString="" Roles="" UseConnectionString="false" ReadOnly="false" MinutesToCache="10" ServerMajorVersion="9">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Assignment Non Timephased" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <Variables />
+      <CustomTimeIntelligenceSettings>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;TimeIntelligenceMdxSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Enabled&gt;true&lt;/Enabled&gt;
+  &lt;ReferenceLevel&gt;None&lt;/ReferenceLevel&gt;
+  &lt;ReferenceDateTime&gt;0001-01-01T00:00:00&lt;/ReferenceDateTime&gt;
+  &lt;LevelBindings /&gt;
+&lt;/TimeIntelligenceMdxSettings&gt;</CustomTimeIntelligenceSettings>
+      <DataTableMapping DateAggregationType="Year" CalendarStartMonth="0">
+        <ColumnMappings />
+      </DataTableMapping>
+    </DataSource>
+  </DataSourcesInWorkspace>
+  <IndicatorsInWorkspace>
+    <Indicator Guid="dc59129d-3531-4389-9514-de752c928457" Folder="Standard\Miscellaneous" CreatedBy="WGB-PC\wgb" CreatedDate="2008-11-24T14:54:45.465-08:00" Version="1" IndicatorType="Standard">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Check - Large" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+      </Memberships>
+      <NoDataIndicatorBand ToolTip="No Data" ImageData="R0lGODlhGAAYAPcAAEJCMUpCOUpKOVJKOVJKQlJSQlpSQlpSSlpaSmNaSmNaUmtjUmtrWnNrWnNrY3tzY3tza3t7a4R7a4R7c4SEc4yEc4yEe4yMe5SMe5SMhJSUhJyUhJyUjJycjKWcjKWclKWllK2llK2lnK2tnLWtnLWtpbW1pb21pb21rb29rca9rca9tcbGtc7Gtc7Gvc7OvdbOxtbWxt7Wxt7Wzt7ezufezufe1ufn3u/n1u/n3u/v3u/v5/fv5/f35/f37//37///7///9////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/ACH5BAEAAP8ALAAAAAAYABgAAAj/AP8JHEiwoMGDA1eEmKAgwAIJHVYgLNjiwoALH0KkEKEBwoAMLSb+E6EAZAkWK1ioODFCRIUGIhCqKAAihQoWKU6IQDGCRIkRFxCUMMgCwQcQITSUQFFChAkSGTRwsOABQYyCFi644JDDh4gPI0KY4MBBxw8KHCZgIPhCAAkUH2L04NEhA4oQH27ooJGhQ4cAVwVuyLDi6QcaPHpowEujxwwNGz5kkJBhoAMQJlaU+GCBRhAeJnrsiDHBAogPGCBAGEgABIqcYzPI8KFjh4wLGiRHxrBgYICnmlOA8NBhB5AbIixs8KDhwgYNAwYi8Jlz84ccOnz06JEBLYcNFiwUuRgogQPTExo89ABiQwMMHz8yXMhggUKFCQM/RBABIgOI7TNcgMEFNdyQQwcTbMDBAx8kZABeGWSXwwQdcDYBDTrcUMGAALhAkAUZjFABDzRgkEEGHsyHAWIRWADBBQW9kEBzGDwX1QVTySeBBRUcIFFBIhAgFVkefNDBYBtsQMEEBsR0EAkLRMABBh1cYMF3GmTggAIpiLSCBQIwAAF4EzjwAAATqCBSQhlAsIAAB0j5wpp01mmnQQEBADs=" />
+      <IndicatorBands>
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhGAAYAPcAAP319fV3efeam5EpHeLHxJs9MqFHPfeTlbh2buDDwPRzdtOqpul8efji4fRwcq1fVsSNhutvb/eWmN1rZ/Rtb/igovRpbOOEgPidn/NmaPijpZEqHvimqJk4LfNjZfNgYvmpq96HhuBmZNpbWeJ2dPJdXuFwb9FqZt9QT+SUk/jj4u2UlMdkX/aSlNN9ev329cVOSdBcWfNdX+J8efV6fepiZM5HRPV+gPeio/329vJlZ/309PR2eOldXdlRUPirrMhtaMREP91+fe2ZmtxVUOJ6d+B5dd9YVdxWUt5oZN1lYuOLiPWlpeqEg+l/ft5xbeZeXOJ3dPnk5Pjg3/jh4OZXVuplZednZv319N1lYOGFgumMifeQkeOGg+SJhvaMjumgnt97d+yFhN52cvWOjt5zcPemp+2Kit5pZuB1cedsa9tjXupqavjf3uOIheWNit1oZN1iX/OHid10cPeWluqJiOdycOdiYfmsrd95delgX/jg4O2Pj+h0c/nk4////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAIAALAAAAAAYABgAAAj/AAEJHEiwoMGDAxNAeFBgQ4EHEBIgLEgAwQAgIYbgWCGExQAEBCYCWmDAxQ8QHDRUwCCATosTBhYgXNAhBRMzKVcKkHCAjBwSHWRSNJBii5YwdXTyZPDEiB0TBkISROACz5w/OZY02XmAwQUAf9bciIGAYIIBJ2dIwerGSdevfxqIoMFjgESBEICg5JPHz58XXbyCbTAhQgAFMCAMfBAi55kxKv6CGVz4sIMRDwYWGKKSpZgykf/ErazAAYUaBQZuwKG06xvRf7yosUzBgo4NmlewXApXNIAZV0xbyNAjtcAHQrgKjpuGyh8ARe4M9+AjM14WvClHgLPnD5YoUDx8dQiiWODZFlzQaA/ARsmUPzuQfChhd+qJL0kAEDZc2kqcNjsQIYMNZRFEgAEk9JGFCPwJp8cRRFSBQlQG0WTCDTTQNt0HMqAQ1EwGxMBDabVlIF4JNsQkUkUDwDBCDTr04EMQH0klEiAKMeQQRHfd6OOPQBIUEAA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPYAAPPMiNx/Heq0ethyBfTXuealX+KWRPDHnPC+aPXavt6GKfLJgffdrfTPjvHEdPLGe/nnxPXVm/jkvvbap/HBbvTSlPffs+yuRO+7Yfnpye2xSvbXoe+5W/jiue6zT+ysPu62Vdt8F9hzBvrrzueeM+i9eOqybu/DhfDKluuqQ+iqXfbbsOefLu24aOimS/HAbf369O7Ah/XWpuSVJeqxZOSYNfDCdPrqzOOQIuyvTe+9c/bWoOmmRPPVqu6yTvjjvOuvSuKrUee0W/XkyO+6YPLWo+zJju/So+GkPuGwX/fr1u2wSeS1Z+e+e+jBf/Xlyei5bu7Ace7PneOxYOepQ+ezXPHKhu/LjezKkeWtT+S1ZuGrU+3Om+WrS+a5cOKxX+a3au/RoN+lRuKvW+axV+2+a+OwXN+oTOSzYuSmP+e0YOnEh+e7cOiuTPDKh+27ZuyzUe/Ig+WzX+zDfOS0ZfHToPPWo/fnzffr1+q6aP///////wAAAAAAAAAAAAAAACH5BAEAAHsALAAAAAAYABgAAAf/gHuCg4SFhoeDBAIGASIBBgIEiIUJBQMmKCs/MicqAwUJk3sHCjE3GRASHRYMEzs0CgeIByE9I6h1JUlsVxsRFTohspQKtqgSJXh6SmC/DQAtCqGEBTG3qUVrettOcc8LDy4FhAQDp6kddk3bekxWAOAOLwOSggImx6sMXzB6MFvwHjiggKCGgEEGUKBjNQHKEz1D5MQjiIGHgUEBVqhiuGGOFD1c8gikyCFHgEEifuib4MuNFz1TbAxEgIEDCB8iMMrg6OyMHjEza4LwkOKkIAMnWvmq8EzNETIkh2ogcdGeCpbO4EUR8oamTQ8aLuA4KKjcjqwLqmgJg6bL17AfV+hRo8EUno0x7ILAAXvhw4xxhBIo0BGwDB12ZoDAZSHNEK0WI7NguWMkzWJhsxS4eIGASBskVJb0nRFLVKUBNXjk8JGCBI5P00TtUcTIEaR6snPr3k0oEAA7" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhGAAYAPYAAFG3bU62a1O4b3jHjsfVxEu1aHWZbjtuMnbGjKrApnrIkHPFiYyqhidfHWvCg0V2PXDEh8LSwF2IVn3Jkkm0Zm7DhVa5cX/Kk0ezZChgHjZrLWnBgerz62Ska4HLlVaoZfT59USyYvX59WiudGGkajWKQU6VVVmtaz6dUXmwf1i5cjyhU1aYXFGeXXG2f0WrXkagWFqramGrb168eGG9ejeTR1WqZ6rOrkeZVHS+hnC8gj2OR1aqZkqtY23ChHnHj1u7dYDKlGO/fGKvcUSxYVa2b0u0Z2OwcmOzdW+qdVi3cd/s4GS7e4y8kWi+frfUumC0c8vgzaHIpVOya2myd1WeXmCiZl2ra1SjYWWkbIG1h2W3eK3PsXOuelWtaKrNrV6pamGxcpG+lWbAf27ChKTJqHGrd26/g9Tm1oq7j3Wve2Oxc2Wvcq/Qsmi/f1KuaGKtcJXBmVSqZm+6gODt4Vi6c4y7kV+gZVWhYH+0hGqwdv///////wAAAAAAAAAAACH5BAEAAHwALAAAAAAYABgAAAf/gHyCg4SFhoeDEQwSBxkHEgwRiIUEBg0sIzk/OjImDQYEk3wJDyRBFxMKAwgLED4tDwmICRouHqiqrBAVDhsnGrKUD7a4q628bmFQNg+hhAYkt6nGuw5IHVJ2MTgGhBENp9O6vENJdHsgVSoNkoIMLMXjDkMpInt7NzwWOwyDEiPijjlYU+9enA9FBMCQMOhADlVzqJzhtaUDB3RqPlgQAKDHgUEZfgzQI6aNGThOwES5l0YfxwBGMjTUgeDOvT1cOjS5d0PjywIvPgqSIGMBmzL29nC4uARPQgABClBAwdCdCQhkjmR5cnNPHi8/KWAo0U/QNx+9mFzRAmIPGixhWzEQYfesxYYxQmjEsPKlyxuoUjGEqNGNEIEHJ/LOAKJEzhTAYkOsaGaIlo3FdTZCFrwC2KwHOFRojiqWSI1Yoio12AGjh5EXKEp8ciaKjyJGjiC1q827t29CgQAAOw==" />
+      </IndicatorBands>
+    </Indicator>
+    <Indicator Guid="704e18b3-dabd-47a5-b9eb-93cdcaea4d45" Folder="Centered\Trends" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-04T13:50:29.290706-08:00" Version="1" IndicatorType="Centered">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Down Trend - Large (Centered)" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+      </Memberships>
+      <NoDataIndicatorBand ToolTip="No Data" ImageData="R0lGODlhGAAYAPQAAEBAQKysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL6+vr+/v////wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAABUALAAAAAAYABgAAAVLYCWOZGmeaKqubOu+cCyTQG3XMDBJ0dMsgBzPt0gEX4AIxMFQII4uwLKJMEBbAKbTQLiyAL/EoSDwrgDF8SBgVt1us7h8Tq/b7/IQADs=" />
+      <IndicatorBands>
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhGAAYAPUAAJAnG7k/OblCPLlEPrpHQbpKQ7pMRrpPSbpRS7pUTrpXUPNlaPRoa/RrbvRucfRxdPV1d/V4evV7ffV+gPWChPaFh/aIivaLjfaOkPeSk/eVlveYmfebnPien/ihovijpfimqPipqvmrrf///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAajQJJwSCQBisgkERA4Kp9CgGDRhCoBgwaD6rQOAYSHQ8v1RgsRiJhctQIME0l6vW1fDxVKfD6ud4sACBcWeXtqfWWACRkYg4Vyh2x/AAobGoyOepB0iQCen4GZewSgn1eNhJp/bpipE6tQAJeoebBPAJatFbZXHLmovEkAHb6zF8FIAB7Ev8iAH8vFGc5LINDMGtRfIdbRG9pRItzXHOBGpaZJQQA7" />
+        <IndicatorBand BackColor="#FF8800" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOihPuicKP7mk/7aXf338OCPOP7ZWP7omP7WTv7pnf7YU/7qov/srP7URNp3Dv/rp/7VSf3SOuyqO+ijR+eZGOqjMPvv4uqoROqlOuilTueZHOiiQuikS//tseiaIP/uteqnP+ibJP3TP/7ljv7bY/7kif7ebv7jg/7daP7fc/7hfv7geNhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC0ALAAAAAAYABgAAAaswJZwSCwaj0KWcslsKpGszKfDeCwSB8GodFKtWMgWi1O9ZrfdVQocZk3MWq43ZWK3N2e52oSyt+NpdCgkfkcsAGhzfCQDhUWHiXuDAwaOQ5B6gowGCpZiiJmLlAoIlpiBopwIEI6nioMBLCGrDYWukiSxYh4NIn63mrpJGhF2wIvClxRsx7CmbAUXoc5tQgQOIK+5nkYEBRjB3EfeEtRhSBYOFcnn4wXi7fFHQQA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOeaHf7jg/7geP7VRv7ljf7hff7kiP7mkv7nl/7XT/7fc/7WSv7ebv7bY/7onP7daf7YVP7ZWf7poP7aXv/qpf/sqv/truigOuicKP/us+idLeihPuieMf/vt+ibIOiiQuibJOifNdhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACMALAAAAAAYABgAAAahwJFwSBSKishkUXRUOomiT/PpFCE2UypSdCBcstqhiGAIhMBhUbkg4ICZ8Dj8EmArGJqsqJOxVCgSDghdawJ3Dw0YUyJ9f4GDZHWGDIgTESBNIn6AgoSShw2WEAkeRyKOnZF2lKERowsDAEyckIWgogmwsiMij56rla65sZmptqy4uotyzBjCymFir8TRYsO71UbQ2UbU3EbY37xo2eTiTkEAOw==" />
+        <IndicatorBand BackColor="#88FF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAP7VSf7URP3TP+icJv3SOv3RNf3QMf7ZWOimUf3PLf7aXf7omP7ebv/srP7jg/7qov3OKf7bY//utf7ljv/wvf7geP7hfv/vuf3NJf7kif7daP/rp/7fc//tsf7mk/7pneihPuiiQv3MIeifNuijR+idLeikS+ieMeilTuigOv3MHv7WTv7YU9hxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC4ALAAAAAAYABgAAAa8QJdwSCwaj8IWcllsIZTMpZOCgkabCMpFYrJeXdNtp0HyMsOS8eYRMjeHLVS6sf4sQO6kt2WiP+weEyluLQNmLSR/C4EZDiN7AyyEIYsTjRYVJ1CFLCt5LSCWDpgcDCUtnCsAeWApoxWlGhEKB50AAaxgI7AMsrS2AQK5YCe9s7WqwQTDYCXHwAIEBcxgv8nRBQbULci32AYJzKne0uAQw+PK2QkQGLnp3+wYIqzw5fIiKp+o/P3+qF+uBAEAOw==" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhGAAYAPUAACVeGzeDPDiDPjqEQDyEQDyFQT+GQ0GHRUOHRkSISESyY0aJSkezZEiKS0m0Zku1aE22alC3bFK4blS5cFe6clm6dFy7dl68eGG9emO/fGXAfmjBgGrBgm3ChG/DhnHEiHTFinbGjHjHjv///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAaeQJJwSAIYj0aiclmMQB4OhgLArBYlTiiDal0CJting9slAijgLLksBFTQ4TUbYHmn5WXApQ7HdwEYe3Z+VgAZgXyEVQAah4KKTAAbjYiKSEcIHJOOBJdHbQ0iISAfHh2alIJwAWsAoaOlp5uIbwJ4rqKkpqiOFgOEuLC7swWQwbqyGgaQoLmxHAfMQ8elCNJmryAJ10q4C9xeDeCRbEEAOw==" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhGAAYAPUAACVeGzeDPDiDPjqEQDyEQDyFQT+GQ0GHRUOHRkSISESyY0aJSkezZEiKS0m0Zku1aE22alC3bFK4blS5cFe6clm6dFy7dl68eGG9emO/fGXAfmjBgGrBgm3ChG/DhnHEiHTFinbGjHjHjv///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAaeQJJwSAIYj0aiclmMQB4OhgLArBYlTiiDal0CJting9slAijgLLksBFTQ4TUbYHmn5WXApQ7HdwEYe3Z+VgAZgXyEVQAah4KKTAAbjYiKSEcIHJOOBJdHbQ0iISAfHh2alIJwAWsAoaOlp5uIbwJ4rqKkpqiOFgOEuLC7swWQwbqyGgaQoLmxHAfMQ8elCNJmryAJ10q4C9xeDeCRbEEAOw==" />
+        <IndicatorBand BackColor="#88FF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAP7VSf7URP3TP+icJv3SOv3RNf3QMf7ZWOimUf3PLf7aXf7omP7ebv/srP7jg/7qov3OKf7bY//utf7ljv/wvf7geP7hfv/vuf3NJf7kif7daP/rp/7fc//tsf7mk/7pneihPuiiQv3MIeifNuijR+idLeikS+ieMeilTuigOv3MHv7WTv7YU9hxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC4ALAAAAAAYABgAAAa8QJdwSCwaj8IWcllsIZTMpZOCgkabCMpFYrJeXdNtp0HyMsOS8eYRMjeHLVS6sf4sQO6kt2WiP+weEyluLQNmLSR/C4EZDiN7AyyEIYsTjRYVJ1CFLCt5LSCWDpgcDCUtnCsAeWApoxWlGhEKB50AAaxgI7AMsrS2AQK5YCe9s7WqwQTDYCXHwAIEBcxgv8nRBQbULci32AYJzKne0uAQw+PK2QkQGLnp3+wYIqzw5fIiKp+o/P3+qF+uBAEAOw==" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOeaHf7jg/7geP7VRv7ljf7hff7kiP7mkv7nl/7XT/7fc/7WSv7ebv7bY/7onP7daf7YVP7ZWf7poP7aXv/qpf/sqv/truigOuicKP/us+idLeihPuieMf/vt+ibIOiiQuibJOifNdhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACMALAAAAAAYABgAAAahwJFwSBSKishkUXRUOomiT/PpFCE2UypSdCBcstqhiGAIhMBhUbkg4ICZ8Dj8EmArGJqsqJOxVCgSDghdawJ3Dw0YUyJ9f4GDZHWGDIgTESBNIn6AgoSShw2WEAkeRyKOnZF2lKERowsDAEyckIWgogmwsiMij56rla65sZmptqy4uotyzBjCymFir8TRYsO71UbQ2UbU3EbY37xo2eTiTkEAOw==" />
+        <IndicatorBand BackColor="#FF8800" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOihPuicKP7mk/7aXf338OCPOP7ZWP7omP7WTv7pnf7YU/7qov/srP7URNp3Dv/rp/7VSf3SOuyqO+ijR+eZGOqjMPvv4uqoROqlOuilTueZHOiiQuikS//tseiaIP/uteqnP+ibJP3TP/7ljv7bY/7kif7ebv7jg/7daP7fc/7hfv7geNhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC0ALAAAAAAYABgAAAaswJZwSCwaj0KWcslsKpGszKfDeCwSB8GodFKtWMgWi1O9ZrfdVQocZk3MWq43ZWK3N2e52oSyt+NpdCgkfkcsAGhzfCQDhUWHiXuDAwaOQ5B6gowGCpZiiJmLlAoIlpiBopwIEI6nioMBLCGrDYWukiSxYh4NIn63mrpJGhF2wIvClxRsx7CmbAUXoc5tQgQOIK+5nkYEBRjB3EfeEtRhSBYOFcnn4wXi7fFHQQA7" />
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhGAAYAPUAAJAnG7k/OblCPLlEPrpHQbpKQ7pMRrpPSbpRS7pUTrpXUPNlaPRoa/RrbvRucfRxdPV1d/V4evV7ffV+gPWChPaFh/aIivaLjfaOkPeSk/eVlveYmfebnPien/ihovijpfimqPipqvmrrf///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAajQJJwSCQBisgkERA4Kp9CgGDRhCoBgwaD6rQOAYSHQ8v1RgsRiJhctQIME0l6vW1fDxVKfD6ud4sACBcWeXtqfWWACRkYg4Vyh2x/AAobGoyOepB0iQCen4GZewSgn1eNhJp/bpipE6tQAJeoebBPAJatFbZXHLmovEkAHb6zF8FIAB7Ev8iAH8vFGc5LINDMGtRfIdbRG9pRItzXHOBGpaZJQQA7" />
+      </IndicatorBands>
+    </Indicator>
+    <Indicator Guid="dc96ba56-72b3-4832-b327-fa0cf88e59f3" Folder="Standard\Trends" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-04T13:51:07.922706-08:00" Version="1" IndicatorType="Standard">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Down Trend - Large" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+      </Memberships>
+      <NoDataIndicatorBand ToolTip="No Data" ImageData="R0lGODlhGAAYAPQAAEBAQKysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL6+vr+/v////wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAABUALAAAAAAYABgAAAVLYCWOZGmeaKqubOu+cCyTQG3XMDBJ0dMsgBzPt0gEX4AIxMFQII4uwLKJMEBbAKbTQLiyAL/EoSDwrgDF8SBgVt1us7h8Tq/b7/IQADs=" />
+      <IndicatorBands>
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhGAAYAPUAAJAnG7k/OblCPLlEPrpHQbpKQ7pMRrpPSbpRS7pUTrpXUPNlaPRoa/RrbvRucfRxdPV1d/V4evV7ffV+gPWChPaFh/aIivaLjfaOkPeSk/eVlveYmfebnPien/ihovijpfimqPipqvmrrf///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAajQJJwSCQBisgkERA4Kp9CgGDRhCoBgwaD6rQOAYSHQ8v1RgsRiJhctQIME0l6vW1fDxVKfD6ud4sACBcWeXtqfWWACRkYg4Vyh2x/AAobGoyOepB0iQCen4GZewSgn1eNhJp/bpipE6tQAJeoebBPAJatFbZXHLmovEkAHb6zF8FIAB7Ev8iAH8vFGc5LINDMGtRfIdbRG9pRItzXHOBGpaZJQQA7" />
+        <IndicatorBand BackColor="#FF8800" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOihPuicKP7mk/7aXf338OCPOP7ZWP7omP7WTv7pnf7YU/7qov/srP7URNp3Dv/rp/7VSf3SOuyqO+ijR+eZGOqjMPvv4uqoROqlOuilTueZHOiiQuikS//tseiaIP/uteqnP+ibJP3TP/7ljv7bY/7kif7ebv7jg/7daP7fc/7hfv7geNhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC0ALAAAAAAYABgAAAaswJZwSCwaj0KWcslsKpGszKfDeCwSB8GodFKtWMgWi1O9ZrfdVQocZk3MWq43ZWK3N2e52oSyt+NpdCgkfkcsAGhzfCQDhUWHiXuDAwaOQ5B6gowGCpZiiJmLlAoIlpiBopwIEI6nioMBLCGrDYWukiSxYh4NIn63mrpJGhF2wIvClxRsx7CmbAUXoc5tQgQOIK+5nkYEBRjB3EfeEtRhSBYOFcnn4wXi7fFHQQA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAOeaHf7jg/7geP7VRv7ljf7hff7kiP7mkv7nl/7XT/7fc/7WSv7ebv7bY/7onP7daf7YVP7ZWf7poP7aXv/qpf/sqv/truigOuicKP/us+idLeihPuieMf/vt+ibIOiiQuibJOifNdhxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACMALAAAAAAYABgAAAahwJFwSBSKishkUXRUOomiT/PpFCE2UypSdCBcstqhiGAIhMBhUbkg4ICZ8Dj8EmArGJqsqJOxVCgSDghdawJ3Dw0YUyJ9f4GDZHWGDIgTESBNIn6AgoSShw2WEAkeRyKOnZF2lKERowsDAEyckIWgogmwsiMij56rla65sZmptqy4uotyzBjCymFir8TRYsO71UbQ2UbU3EbY37xo2eTiTkEAOw==" />
+        <IndicatorBand BackColor="#88FF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhGAAYAPUAAP7VSf7URP3TP+icJv3SOv3RNf3QMf7ZWOimUf3PLf7aXf7omP7ebv/srP7jg/7qov3OKf7bY//utf7ljv/wvf7geP7hfv/vuf3NJf7kif7daP/rp/7fc//tsf7mk/7pneihPuiiQv3MIeifNuijR+idLeikS+ieMeilTuigOv3MHv7WTv7YU9hxA////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAC4ALAAAAAAYABgAAAa8QJdwSCwaj8IWcllsIZTMpZOCgkabCMpFYrJeXdNtp0HyMsOS8eYRMjeHLVS6sf4sQO6kt2WiP+weEyluLQNmLSR/C4EZDiN7AyyEIYsTjRYVJ1CFLCt5LSCWDpgcDCUtnCsAeWApoxWlGhEKB50AAaxgI7AMsrS2AQK5YCe9s7WqwQTDYCXHwAIEBcxgv8nRBQbULci32AYJzKne0uAQw+PK2QkQGLnp3+wYIqzw5fIiKp+o/P3+qF+uBAEAOw==" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhGAAYAPUAACVeGzeDPDiDPjqEQDyEQDyFQT+GQ0GHRUOHRkSISESyY0aJSkezZEiKS0m0Zku1aE22alC3bFK4blS5cFe6clm6dFy7dl68eGG9emO/fGXAfmjBgGrBgm3ChG/DhnHEiHTFinbGjHjHjv///wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACQALAAAAAAYABgAAAaeQJJwSAIYj0aiclmMQB4OhgLArBYlTiiDal0CJting9slAijgLLksBFTQ4TUbYHmn5WXApQ7HdwEYe3Z+VgAZgXyEVQAah4KKTAAbjYiKSEcIHJOOBJdHbQ0iISAfHh2alIJwAWsAoaOlp5uIbwJ4rqKkpqiOFgOEuLC7swWQwbqyGgaQoLmxHAfMQ8elCNJmryAJ10q4C9xeDeCRbEEAOw==" />
+      </IndicatorBands>
+    </Indicator>
+    <Indicator Guid="3371667b-8721-40e6-b58a-2ba1ee5811bd" Folder="Centered\Stoplights" CreatedBy="WGB-PC\wgb" CreatedDate="2008-12-14T16:37:02.597-08:00" Version="4" IndicatorType="Centered">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Stoplight (Centered)" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+      </Memberships>
+      <NoDataIndicatorBand ToolTip="No Data" ImageData="R0lGODlhEAAQAPUAAExIPE5KPU9KPk9LPlNPQVRPQlVRQ1dTRFhTRVlURlxXSF5ZSl9aSl9aS2FcTGJcTWJdTWNdTmNeTmVfT2ZgUHx2a395boB6b4J8b4N9cYyHeYyIe5GLfZOOgpOPgJqVipqWiJuViZ2ZjaGajqahlaikl6ummqynmq2nmq2nm62om7Csn7OtoLWvo7u1qcO9sMfBs////wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAADIALAAAAAAQABAAAAZiQJlwaJA4hsgk5fQRAZLJgCtGTUWgQgiLyl0RoAsTd9xKIBGwsZp0ECZe6jhqISuU4mqLmaHCj0FtMhMjfjEZDUgPG3gXD1ADHmoajlgOHFwVA1hDBx0YIQqbSAIKAqKnSEEAOw==" />
+      <IndicatorBands>
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///9UAANEAAM0AAMwAAMsAAMoAAN8DA9QEBNsFBdQFBecJCdgJCeQMDN0MDNwMDOEPD/EREe4UFOYTE+UTE+sWFvoYGOoWFvcaGu8ZGd0ZGf8dHfQdHeUdHfggIPcgIP8iIv8jI/0jI/sjI+0hIf8rK/YqKv8tLf8uLv83N/85OaMtLepNTfNUVPBVVf9cXPpaWutVVexXV+tXV+xYWP9lZfZqavpvb/dwcP98fPt8fP+Ghv+Li/+Ojv+Tk/+Vlf+Zmf+amv+bm/+dnf+hof///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAEYALAAAAAAQABAAAAeLgEaCgyyFg4eILD06PCyIiUMqIis/jo9GLEQoISMZJ0CWhyxCJiIkHx0TJT6hmEUoIiMgHRoWDh49lixBKaaztRQRChs7jiw8HCS/GBUREA0DL8Y+F8vNDw0JBDe6NhK11w0LBTWtLDAMzc8LBjOtgiwxCOsGMu+ELgIDBzT3ojgtcvhLZOiSwUuBAAA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP/////9AP/+AP/+D///FP/+Gv//If/8Kv//Of//P///R///Uf/9V///Wf//XP//Xf//X///YP//Zf//av/9a///bP//eP//ev/2AP/3AP/4AP/6AP/3Gf/4LfDsV//5XfXyX//wAP/yAP/zAP/1AP/1Af/0GbStLPXuT//qAP/rAP/sAP/tAP/vAP/rFv/tFv/vF//wF//sGf/vGv/yP4uEMN7UUaGZPv/0Zv/pAP7lAP7oAP3jAPzhAPziAP/qF/TlYresSaqhRbqvUPzeAPzgAPraAPrbAPrcAPreAPjYAP/oNfTeRtfGSJ6RO7GlRqaZQrmtTbmtT/jVAIV5O////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFYALAAAAAAQABAAAAeegFaCg0OFg4eIQwsMCkOIiRMKBgsfjo+CQwwCHBoOKJdWQxgDnCUmF5aHQyEHpSQuCDepmBIcGyUkIi0qEbNDFgQauLorPDRBqUMQwrktKzo7Pw+WQykFw87QPUYzTo5DFBnNxTs9PkpFOd8WI8Ta50hLIN8NHizk20lHVExN1BcJOpyQEQPGCyA1KsyygWOIECJTpECJ8qQKqIuCAgEAOw==" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///wD2AADqAAHlAADYAADSAADGAADBAAC7AACzAACvAACtAACqAACnAACjAACgAAbxBQfgBgjrBwjmBwnxCAjrCArrCRTzFB77Hzj+OELLQVH1UjSWNFr/W1PgU1v0XGL/ZGT/ZGT/ZW3/bXD/b3D/cHb/dXj/eHr/eoH/ggXNAAXJAAXIAAXCAAK9AAS9AAS3AAKxAAKrAAbOAQXIAQTxAgbUAgbOAgbaBAfaBAbUBAfgBQfaBQvhCRXoEx7UGz3sOznUNUjsRknMR1LQTlzaWV7SW23xal7MW3nxdoL/gIL/gYL5gAi4AhStDCfLISmyI0K9PUzGRlvWVmjXY3bocXbicXbbcXLSbnvXdnrYdP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAQABAAAAemgFyCgh2FhYOIhB0gJCIkH4eJHRwqGhgXP0FMGx2IHR4jAjYTFDwFBkhEnYQoAhUWFBI6OysHSqsdIRkRsBI9NzQ1CFBJnR0pvLE9OzQtLi9OV8YmA8rALC4wMQtUxicEvszO2jINVcYlPjk7OOMx5U9ZuEMG7dnvMxBTq1wdS0AH7snIF0ULv35NhCRQwMDBAylbDiqyYqTIESyREikypLGjRy6BAAA7" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///wD2AADqAAHlAADYAADSAADGAADBAAC7AACzAACvAACtAACqAACnAACjAACgAAbxBQfgBgjrBwjmBwnxCAjrCArrCRTzFB77Hzj+OELLQVH1UjSWNFr/W1PgU1v0XGL/ZGT/ZGT/ZW3/bXD/b3D/cHb/dXj/eHr/eoH/ggXNAAXJAAXIAAXCAAK9AAS9AAS3AAKxAAKrAAbOAQXIAQTxAgbUAgbOAgbaBAfaBAbUBAfgBQfaBQvhCRXoEx7UGz3sOznUNUjsRknMR1LQTlzaWV7SW23xal7MW3nxdoL/gIL/gYL5gAi4AhStDCfLISmyI0K9PUzGRlvWVmjXY3bocXbicXbbcXLSbnvXdnrYdP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAQABAAAAemgFyCgh2FhYOIhB0gJCIkH4eJHRwqGhgXP0FMGx2IHR4jAjYTFDwFBkhEnYQoAhUWFBI6OysHSqsdIRkRsBI9NzQ1CFBJnR0pvLE9OzQtLi9OV8YmA8rALC4wMQtUxicEvszO2jINVcYlPjk7OOMx5U9ZuEMG7dnvMxBTq1wdS0AH7snIF0ULv35NhCRQwMDBAylbDiqyYqTIESyREikypLGjRy6BAAA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP/////9AP/+AP/+D///FP/+Gv//If/8Kv//Of//P///R///Uf/9V///Wf//XP//Xf//X///YP//Zf//av/9a///bP//eP//ev/2AP/3AP/4AP/6AP/3Gf/4LfDsV//5XfXyX//wAP/yAP/zAP/1AP/1Af/0GbStLPXuT//qAP/rAP/sAP/tAP/vAP/rFv/tFv/vF//wF//sGf/vGv/yP4uEMN7UUaGZPv/0Zv/pAP7lAP7oAP3jAPzhAPziAP/qF/TlYresSaqhRbqvUPzeAPzgAPraAPrbAPrcAPreAPjYAP/oNfTeRtfGSJ6RO7GlRqaZQrmtTbmtT/jVAIV5O////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFYALAAAAAAQABAAAAeegFaCg0OFg4eIQwsMCkOIiRMKBgsfjo+CQwwCHBoOKJdWQxgDnCUmF5aHQyEHpSQuCDepmBIcGyUkIi0qEbNDFgQauLorPDRBqUMQwrktKzo7Pw+WQykFw87QPUYzTo5DFBnNxTs9PkpFOd8WI8Ta50hLIN8NHizk20lHVExN1BcJOpyQEQPGCyA1KsyygWOIECJTpECJ8qQKqIuCAgEAOw==" />
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///9UAANEAAM0AAMwAAMsAAMoAAN8DA9QEBNsFBdQFBecJCdgJCeQMDN0MDNwMDOEPD/EREe4UFOYTE+UTE+sWFvoYGOoWFvcaGu8ZGd0ZGf8dHfQdHeUdHfggIPcgIP8iIv8jI/0jI/sjI+0hIf8rK/YqKv8tLf8uLv83N/85OaMtLepNTfNUVPBVVf9cXPpaWutVVexXV+tXV+xYWP9lZfZqavpvb/dwcP98fPt8fP+Ghv+Li/+Ojv+Tk/+Vlf+Zmf+amv+bm/+dnf+hof///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAEYALAAAAAAQABAAAAeLgEaCgyyFg4eILD06PCyIiUMqIis/jo9GLEQoISMZJ0CWhyxCJiIkHx0TJT6hmEUoIiMgHRoWDh49lixBKaaztRQRChs7jiw8HCS/GBUREA0DL8Y+F8vNDw0JBDe6NhK11w0LBTWtLDAMzc8LBjOtgiwxCOsGMu+ELgIDBzT3ojgtcvhLZOiSwUuBAAA7" />
+      </IndicatorBands>
+    </Indicator>
+    <Indicator Guid="6c5da588-2f57-4ab6-ae75-ce135347978d" Folder="Standard\Stoplights" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:42.63-08:00" Version="16" IndicatorType="Standard">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="Stoplight" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+      </Memberships>
+      <NoDataIndicatorBand ToolTip="No Data" ImageData="R0lGODlhEAAQAPUAAExIPE5KPU9KPk9LPlNPQVRPQlVRQ1dTRFhTRVlURlxXSF5ZSl9aSl9aS2FcTGJcTWJdTWNdTmNeTmVfT2ZgUHx2a395boB6b4J8b4N9cYyHeYyIe5GLfZOOgpOPgJqVipqWiJuViZ2ZjaGajqahlaikl6ummqynmq2nmq2nm62om7Csn7OtoLWvo7u1qcO9sMfBs////wD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAADIALAAAAAAQABAAAAZiQJlwaJA4hsgk5fQRAZLJgCtGTUWgQgiLyl0RoAsTd9xKIBGwsZp0ECZe6jhqISuU4mqLmaHCj0FtMhMjfjEZDUgPG3gXD1ADHmoajlgOHFwVA1hDBx0YIQqbSAIKAqKnSEEAOw==" />
+      <IndicatorBands>
+        <IndicatorBand BackColor="#FF0000" ToolTip="Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///9UAANEAAM0AAMwAAMsAAMoAAN8DA9QEBNsFBdQFBecJCdgJCeQMDN0MDNwMDOEPD/EREe4UFOYTE+UTE+sWFvoYGOoWFvcaGu8ZGd0ZGf8dHfQdHeUdHfggIPcgIP8iIv8jI/0jI/sjI+0hIf8rK/YqKv8tLf8uLv83N/85OaMtLepNTfNUVPBVVf9cXPpaWutVVexXV+tXV+xYWP9lZfZqavpvb/dwcP98fPt8fP+Ghv+Li/+Ojv+Tk/+Vlf+Zmf+amv+bm/+dnf+hof///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAEYALAAAAAAQABAAAAeLgEaCgyyFg4eILD06PCyIiUMqIis/jo9GLEQoISMZJ0CWhyxCJiIkHx0TJT6hmEUoIiMgHRoWDh49lixBKaaztRQRChs7jiw8HCS/GBUREA0DL8Y+F8vNDw0JBDe6NhK11w0LBTWtLDAMzc8LBjOtgiwxCOsGMu+ELgIDBzT3ojgtcvhLZOiSwUuBAAA7" />
+        <IndicatorBand BackColor="#FFFF00" ToolTip="Slightly Off Target" ImageData="R0lGODlhEAAQAPYAAAAAAP/////9AP/+AP/+D///FP/+Gv//If/8Kv//Of//P///R///Uf/9V///Wf//XP//Xf//X///YP//Zf//av/9a///bP//eP//ev/2AP/3AP/4AP/6AP/3Gf/4LfDsV//5XfXyX//wAP/yAP/zAP/1AP/1Af/0GbStLPXuT//qAP/rAP/sAP/tAP/vAP/rFv/tFv/vF//wF//sGf/vGv/yP4uEMN7UUaGZPv/0Zv/pAP7lAP7oAP3jAPzhAPziAP/qF/TlYresSaqhRbqvUPzeAPzgAPraAPrbAPrcAPreAPjYAP/oNfTeRtfGSJ6RO7GlRqaZQrmtTbmtT/jVAIV5O////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFYALAAAAAAQABAAAAeegFaCg0OFg4eIQwsMCkOIiRMKBgsfjo+CQwwCHBoOKJdWQxgDnCUmF5aHQyEHpSQuCDepmBIcGyUkIi0qEbNDFgQauLorPDRBqUMQwrktKzo7Pw+WQykFw87QPUYzTo5DFBnNxTs9PkpFOd8WI8Ta50hLIN8NHizk20lHVExN1BcJOpyQEQPGCyA1KsyygWOIECJTpECJ8qQKqIuCAgEAOw==" />
+        <IndicatorBand BackColor="#00FF00" ToolTip="On Target" ImageData="R0lGODlhEAAQAPYAAAAAAP///wD2AADqAAHlAADYAADSAADGAADBAAC7AACzAACvAACtAACqAACnAACjAACgAAbxBQfgBgjrBwjmBwnxCAjrCArrCRTzFB77Hzj+OELLQVH1UjSWNFr/W1PgU1v0XGL/ZGT/ZGT/ZW3/bXD/b3D/cHb/dXj/eHr/eoH/ggXNAAXJAAXIAAXCAAK9AAS9AAS3AAKxAAKrAAbOAQXIAQTxAgbUAgbOAgbaBAfaBAbUBAfgBQfaBQvhCRXoEx7UGz3sOznUNUjsRknMR1LQTlzaWV7SW23xal7MW3nxdoL/gIL/gYL5gAi4AhStDCfLISmyI0K9PUzGRlvWVmjXY3bocXbicXbbcXLSbnvXdnrYdP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAQABAAAAemgFyCgh2FhYOIhB0gJCIkH4eJHRwqGhgXP0FMGx2IHR4jAjYTFDwFBkhEnYQoAhUWFBI6OysHSqsdIRkRsBI9NzQ1CFBJnR0pvLE9OzQtLi9OV8YmA8rALC4wMQtUxicEvszO2jINVcYlPjk7OOMx5U9ZuEMG7dnvMxBTq1wdS0AH7snIF0ULv35NhCRQwMDBAylbDiqyYqTIESyREikypLGjRy6BAAA7" />
+      </IndicatorBands>
+    </Indicator>
+  </IndicatorsInWorkspace>
+  <ReportViewsInWorkspace>
+    <ReportView Guid="7616f855-61d4-4a14-b087-665a184e9652" Folder="ProjectServer" CreatedBy="WGB-PC\wgb" CreatedDate="2009-01-07T11:28:44.011-08:00" Version="3" OverwritePageFilters="false" PreferredHeight="600" PreferredWidth="400" TypeName="OLAPChart" RenderClientSide="true" ScorecardId="00000000-0000-0000-0000-000000000000" ConfiguredViewId="00000000-0000-0000-0000-000000000000">
+      <Properties>
+        <BpmProperty xsi:type="BpmPropertyText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Name" DisplayName="Name" Description="Name Description" Required="false" Visible="true" Text="High Risk Project Costs" />
+        <BpmProperty xsi:type="BpmPropertyLongText" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Description" DisplayName="Description" Description="Description Description" Required="false" Visible="true" Text="" />
+        <BpmProperty xsi:type="BpmPropertyUser" UniqueName="8dd07d4d87794510afdb1f07664359bc_Element_Owner" DisplayName="Person Responsible" Description="Person Responsible Description" Required="false" Visible="true" Login="WGB-PC\wgb" />
+      </Properties>
+      <Comments />
+      <Memberships>
+        <Membership Login="WGB-PC\wgb" Sid="S-1-5-21-4211862685-1839302445-1493994531-1008" Role="Editor" />
+        <Membership Login="NT AUTHORITY\Authenticated Users" Sid="S-1-5-11" Role="Reader" />
+      </Memberships>
+      <CustomData>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;OLAPReportView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Caption="High Risk Project Costs" ParentReportViewId="00000000-0000-0000-0000-000000000000"&gt;
+  &lt;QueryData&gt;
+    &lt;Parameters xmlns="http://performancepoint.microsoft.com/OLAPQueryData"&gt;
+      &lt;Parameter Name="Time"&gt;
+        &lt;DefaultValue /&gt;
+      &lt;/Parameter&gt;
+    &lt;/Parameters&gt;
+    &lt;DataSourceGUID xmlns="http://performancepoint.microsoft.com/OLAPQueryData"&gt;24e34232-9645-4333-b574-08f042e3ed62&lt;/DataSourceGUID&gt;
+    &lt;MDX xmlns="http://performancepoint.microsoft.com/OLAPQueryData"&gt;SELECT
+HIERARCHIZE( {  &amp;lt;&amp;lt;Time&amp;gt;&amp;gt; } )
+ON COLUMNS,
+non empty 
+HIERARCHIZE( {  [Project List].[All Project List].CHILDREN } )
+ON ROWS
+
+FROM [Assignment Timephased]
+
+WHERE ( [Measures].[Actual Cost], [GOV Risk Level_Project].[GOV Risk Level_Project].&amp;amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}] )&lt;/MDX&gt;
+  &lt;/QueryData&gt;
+  &lt;QueryState&gt;
+    &lt;Axes xmlns="http://schemas.microsoft.com/performancepoint/2007/03/query"&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Filter&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns=""&gt;
+            &lt;Item&gt;
+              &lt;Key&gt;
+                &lt;string&gt;[Measures]&lt;/string&gt;
+              &lt;/Key&gt;
+              &lt;Value&gt;
+                &lt;MemberSetFormula FilterEmpty="false" HierarchyType="Measure" Hierarchize="false" Distinct="false" HierarchyName="[Measures]"&gt;
+                  &lt;Operations&gt;
+                    &lt;SetOperation xsi:type="AddMemberSetOp"&gt;
+                      &lt;Name&gt;[Measures].[Actual Cost]&lt;/Name&gt;
+                    &lt;/SetOperation&gt;
+                  &lt;/Operations&gt;
+                &lt;/MemberSetFormula&gt;
+              &lt;/Value&gt;
+            &lt;/Item&gt;
+            &lt;Item&gt;
+              &lt;Key&gt;
+                &lt;string&gt;[GOV Risk Level_Project]&lt;/string&gt;
+              &lt;/Key&gt;
+              &lt;Value&gt;
+                &lt;MemberSetFormula FilterEmpty="false" HierarchyType="Standard" Hierarchize="true" Distinct="false" HierarchyName="[GOV Risk Level_Project]"&gt;
+                  &lt;Operations&gt;
+                    &lt;SetOperation xsi:type="AddMemberSetOp"&gt;
+                      &lt;Name&gt;[GOV Risk Level_Project].[GOV Risk Level_Project].&amp;amp;[{A7A74638-0408-4848-8D4B-D91044EEDCF2}]&lt;/Name&gt;
+                    &lt;/SetOperation&gt;
+                  &lt;/Operations&gt;
+                &lt;/MemberSetFormula&gt;
+              &lt;/Value&gt;
+            &lt;/Item&gt;
+          &lt;/SerializableDictionary&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Columns&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns=""&gt;
+            &lt;Item&gt;
+              &lt;Key&gt;
+                &lt;string&gt;[Time]&lt;/string&gt;
+              &lt;/Key&gt;
+              &lt;Value&gt;
+                &lt;MemberSetFormula FilterEmpty="false" HierarchyType="Standard" Hierarchize="true" Distinct="false" HierarchyName="[Time]"&gt;
+                  &lt;Operations&gt;
+                    &lt;SetOperation xsi:type="AddDefaultMemberSetOp" /&gt;
+                  &lt;/Operations&gt;
+                &lt;/MemberSetFormula&gt;
+              &lt;/Value&gt;
+            &lt;/Item&gt;
+          &lt;/SerializableDictionary&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Rows&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns=""&gt;
+            &lt;Item&gt;
+              &lt;Key&gt;
+                &lt;string&gt;[Project List]&lt;/string&gt;
+              &lt;/Key&gt;
+              &lt;Value&gt;
+                &lt;MemberSetFormula FilterEmpty="false" HierarchyType="Standard" Hierarchize="true" Distinct="false" HierarchyName="[Project List]"&gt;
+                  &lt;Operations&gt;
+                    &lt;SetOperation xsi:type="AddDefaultMemberSetOp" /&gt;
+                    &lt;SetOperation xsi:type="AddMemberSetOp"&gt;
+                      &lt;Name&gt;[Project List].[All Project List]&lt;/Name&gt;
+                    &lt;/SetOperation&gt;
+                    &lt;SetOperation xsi:type="AddChildrenSetOp"&gt;
+                      &lt;Name&gt;[Project List].[All Project List]&lt;/Name&gt;
+                    &lt;/SetOperation&gt;
+                  &lt;/Operations&gt;
+                &lt;/MemberSetFormula&gt;
+              &lt;/Value&gt;
+            &lt;/Item&gt;
+          &lt;/SerializableDictionary&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Pages&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns="" /&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Sections&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns="" /&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+      &lt;Axis&gt;
+        &lt;Type&gt;
+          &lt;AxisType xmlns=""&gt;Chapters&lt;/AxisType&gt;
+        &lt;/Type&gt;
+        &lt;FilterEmpty&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/FilterEmpty&gt;
+        &lt;MemberSets&gt;
+          &lt;SerializableDictionary xmlns="" /&gt;
+        &lt;/MemberSets&gt;
+        &lt;PropertyList&gt;
+          &lt;ArrayOfString xmlns="" /&gt;
+        &lt;/PropertyList&gt;
+        &lt;SortMode&gt;
+          &lt;SortType xmlns=""&gt;Off&lt;/SortType&gt;
+        &lt;/SortMode&gt;
+        &lt;SortIndex&gt;
+          &lt;int xmlns=""&gt;0&lt;/int&gt;
+        &lt;/SortIndex&gt;
+        &lt;SortTuple&gt;
+          &lt;Tuple xmlns=""&gt;
+            &lt;MemberDictionary&gt;
+              &lt;SerializableDictionary /&gt;
+            &lt;/MemberDictionary&gt;
+          &lt;/Tuple&gt;
+        &lt;/SortTuple&gt;
+        &lt;SortDescending&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortDescending&gt;
+        &lt;SortPreservePeerGroups&gt;
+          &lt;boolean xmlns=""&gt;false&lt;/boolean&gt;
+        &lt;/SortPreservePeerGroups&gt;
+      &lt;/Axis&gt;
+    &lt;/Axes&gt;
+    &lt;IsEnabled xmlns="http://schemas.microsoft.com/performancepoint/2007/03/query"&gt;false&lt;/IsEnabled&gt;
+    &lt;DataSourceGUID xmlns="http://schemas.microsoft.com/performancepoint/2007/03/query"&gt;24e34232-9645-4333-b574-08f042e3ed62&lt;/DataSourceGUID&gt;
+  &lt;/QueryState&gt;
+  &lt;ReportViewData&gt;&amp;lt;?xml version="1.0" encoding="utf-16"?&amp;gt;
+&amp;lt;OLAPChartView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&amp;gt;
+  &amp;lt;Legend&amp;gt;
+    &amp;lt;BackColor&amp;gt;ARGBColor:255:255:255:255&amp;lt;/BackColor&amp;gt;
+    &amp;lt;Font&amp;gt;
+      &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+      &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+      &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+      &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+    &amp;lt;/Font&amp;gt;
+    &amp;lt;FontColor&amp;gt;NamedColor:Black&amp;lt;/FontColor&amp;gt;
+  &amp;lt;/Legend&amp;gt;
+  &amp;lt;Axes&amp;gt;
+    &amp;lt;Axis LabelAutoDecimalPlaces="true"&amp;gt;
+      &amp;lt;GridLinesColor&amp;gt;ARGBColor:255:216:216:216&amp;lt;/GridLinesColor&amp;gt;
+      &amp;lt;LabelFont&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/LabelFont&amp;gt;
+      &amp;lt;LabelFontColor&amp;gt;NamedColor:Black&amp;lt;/LabelFontColor&amp;gt;
+      &amp;lt;Font&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/Font&amp;gt;
+      &amp;lt;FontColor&amp;gt;NamedColor:Black&amp;lt;/FontColor&amp;gt;
+    &amp;lt;/Axis&amp;gt;
+    &amp;lt;Axis Index="Value1" LabelAutoDecimalPlaces="true"&amp;gt;
+      &amp;lt;GridLinesColor&amp;gt;ARGBColor:255:216:216:216&amp;lt;/GridLinesColor&amp;gt;
+      &amp;lt;LabelFont&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/LabelFont&amp;gt;
+      &amp;lt;LabelFontColor&amp;gt;NamedColor:Black&amp;lt;/LabelFontColor&amp;gt;
+      &amp;lt;Font&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/Font&amp;gt;
+      &amp;lt;FontColor&amp;gt;NamedColor:Black&amp;lt;/FontColor&amp;gt;
+    &amp;lt;/Axis&amp;gt;
+    &amp;lt;Axis Index="Value2" Gridlines="Dash" LabelAutoDecimalPlaces="true" Visible="false"&amp;gt;
+      &amp;lt;GridLinesColor&amp;gt;ARGBColor:255:192:192:192&amp;lt;/GridLinesColor&amp;gt;
+      &amp;lt;LabelFont&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/LabelFont&amp;gt;
+      &amp;lt;LabelFontColor&amp;gt;NamedColor:Black&amp;lt;/LabelFontColor&amp;gt;
+      &amp;lt;Font&amp;gt;
+        &amp;lt;FontFamily&amp;gt;Tahoma&amp;lt;/FontFamily&amp;gt;
+        &amp;lt;GraphicsUnit&amp;gt;Point&amp;lt;/GraphicsUnit&amp;gt;
+        &amp;lt;Size&amp;gt;8&amp;lt;/Size&amp;gt;
+        &amp;lt;Style&amp;gt;Regular&amp;lt;/Style&amp;gt;
+      &amp;lt;/Font&amp;gt;
+      &amp;lt;FontColor&amp;gt;NamedColor:Black&amp;lt;/FontColor&amp;gt;
+    &amp;lt;/Axis&amp;gt;
+  &amp;lt;/Axes&amp;gt;
+  &amp;lt;SeriesArray /&amp;gt;
+  &amp;lt;GradientEndColor&amp;gt;ARGBColor:255:244:249:248&amp;lt;/GradientEndColor&amp;gt;
+  &amp;lt;GradientStartColor&amp;gt;ARGBColor:255:147:161:158&amp;lt;/GradientStartColor&amp;gt;
+  &amp;lt;BackColor&amp;gt;ARGBColor:255:255:255:255&amp;lt;/BackColor&amp;gt;
+  &amp;lt;PlotAreaBackColor&amp;gt;ARGBColor:255:255:255:255&amp;lt;/PlotAreaBackColor&amp;gt;
+  &amp;lt;FormatType&amp;gt;Default&amp;lt;/FormatType&amp;gt;
+  &amp;lt;CurrencySymbol&amp;gt;$&amp;lt;/CurrencySymbol&amp;gt;
+  &amp;lt;DecimalPlaces&amp;gt;2&amp;lt;/DecimalPlaces&amp;gt;
+  &amp;lt;NegativeSymbol&amp;gt;NegativeSign&amp;lt;/NegativeSymbol&amp;gt;
+  &amp;lt;ShowZeroAs /&amp;gt;
+  &amp;lt;UseThousandsSeparator&amp;gt;true&amp;lt;/UseThousandsSeparator&amp;gt;
+&amp;lt;/OLAPChartView&amp;gt;&lt;/ReportViewData&gt;
+&lt;/OLAPReportView&gt;</CustomData>
+      <EndPoints>
+        <EndPoint UniqueName="Time" DisplayName="Time" AcceptsMultipleFilterLinks="false" />
+      </EndPoints>
+      <BeginPoints />
+    </ReportView>
+  </ReportViewsInWorkspace>
+</ScorecardModel>

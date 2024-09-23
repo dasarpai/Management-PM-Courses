@@ -1,0 +1,3 @@
+http://blogs.msdn.com/b/brismith/archive/2010/05/13/project-server-2010-technet-project-server-techcenter-updated.aspx
+http://blogs.technet.com/b/projectadministration/archive/2009/11/18/microsoft-project-server-2010-requirements.aspx
+http://64.4.11.252/en-us/library/ff426867.aspx

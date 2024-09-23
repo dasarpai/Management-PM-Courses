@@ -1,0 +1,54 @@
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\3_Developing
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\4_Stabilizing
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\5_Deploying
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\README.txt
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\temp.txt
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Current State Infrastructure Assessment.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Feature proposal.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Milestone Review Report.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Project Structure.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Risk Template Tool.xls
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Simple Risk Assessment Tool.xls
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Team Lead Project Progress Report.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Team Member Project Progress Report.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\1_Envisioning\Vision Scope.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Availability Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Backup and Recovery Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Budget Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\CapacityPlan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Communications Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Deployment Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Development Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\End-User Support Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Master Project Plan 0.2.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Microsoft Support Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Migration Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\MonitoringPlan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Operations Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\PerformancePlan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Pilot Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Purchasing and Facilities Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\SecurityPlan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Support Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Test Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Plans\Training Plan.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Business Requirements.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Conceptual Design.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Functional Specification.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Logical Design.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Operations Requirements.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Physical Design.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\System Requirements.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\Usage Scenarios.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\2_Planning\Specifications\User Requirements.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\3_Developing\Testing and Bug Reporting.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\3_Developing\Traceability Audit.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\4_Stabilizing\Pilot Review.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\4_Stabilizing\Release Signoff Form.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\4_Stabilizing\Test Specification.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\5_Deploying\Post Project Analysis.doc
+D:\github\9-Management\13-PM-Courses\PM-Templates\MSF_v3_Sample_Templates\5_Deploying\Project Close-out Report.doc
